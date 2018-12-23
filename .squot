@@ -7,5 +7,7 @@ OrderedDictionary {
 	'OpenGL-NameManager.package' : #SquotCypressCodeSerializer,
 	'OpenGL-Core.package' : #SquotCypressCodeSerializer,
 	'3DTransform.package' : #SquotCypressCodeSerializer,
-	'Logging.package' : #SquotCypressCodeSerializer
+	'Logging.package' : #SquotCypressCodeSerializer,
+	'Script-Preload.package' : #SquotCypressCodeSerializer,
+	'Scripting.package' : #SquotCypressCodeSerializer
 }

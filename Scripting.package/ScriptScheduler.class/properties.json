@@ -1,0 +1,27 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Debug" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"activeList",
+		"scheduledList",
+		"tickList",
+		"activeScript",
+		"interruptProtect",
+		"myEventMap",
+		"pending",
+		"myTickEvent",
+		"tickTime",
+		"syncList",
+		"idleEvent",
+		"schedulerProcess",
+		"suspended",
+		"myScripts" ],
+	"name" : "ScriptScheduler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

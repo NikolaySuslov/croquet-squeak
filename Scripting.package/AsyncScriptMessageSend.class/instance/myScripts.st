@@ -1,0 +1,3 @@
+private
+myScripts
+	^myScripts ifNil:[#()]

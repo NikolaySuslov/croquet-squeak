@@ -1,0 +1,3 @@
+*Scripting-Extensions
+isScript
+	^false

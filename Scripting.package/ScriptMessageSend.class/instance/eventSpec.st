@@ -1,0 +1,3 @@
+accessing
+eventSpec
+	^eventSpec ifNil:[#()].

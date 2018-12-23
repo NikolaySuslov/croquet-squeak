@@ -1,0 +1,21 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UpdateLock" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"myProcess",
+		"myQueue",
+		"myIsland",
+		"myScheduler",
+		"myTrigger",
+		"myScripts",
+		"accessLock",
+		"myEventMap" ],
+	"name" : "AsyncScriptMessageSend",
+	"pools" : [
+		 ],
+	"super" : "ScriptMessageSend",
+	"type" : "normal" }

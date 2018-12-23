@@ -1,0 +1,16 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"frequency",
+		"myProcess",
+		"myTrigger" ],
+	"name" : "TickMessageSend",
+	"pools" : [
+		 ],
+	"super" : "ScriptMessageSend",
+	"type" : "normal" }

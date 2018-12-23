@@ -1,0 +1,17 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"traceLog",
+		"traceEvent",
+		"traceTarget",
+		"traceDonePosition" ],
+	"name" : "ScriptEventTracer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

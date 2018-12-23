@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"trace:in:" : "ar 5/17/2002 20:40" },
+	"instance" : {
+		"isDone" : "ar 5/17/2002 21:01",
+		"isEventTracer" : "ar 5/17/2002 20:46",
+		"stopTracing" : "ar 5/17/2002 20:45",
+		"trace:in:" : "ar 5/17/2002 20:50",
+		"traceEvent:message:script:from:" : "ar 5/17/2002 20:38",
+		"valueWithEvent:" : "ar 5/18/2002 01:08" } }

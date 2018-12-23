@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"on:notify:" : "ar 1/23/2005 18:47",
+		"on:unNotify:" : "ar 1/23/2005 18:48",
+		"waitTick" : "ar 5/13/2005 11:22" } }

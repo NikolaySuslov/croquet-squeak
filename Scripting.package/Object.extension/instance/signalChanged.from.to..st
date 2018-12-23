@@ -1,0 +1,4 @@
+*Scripting-Extensions
+signalChanged: eventName from: oldValue to: newValue
+"Signal the occurence of eventName, which specifies a change from oldValue to newValue. Run any handlers for the event in the context of the island they were created in. The handlers created with #runScript: will run in the current process, and are guaranteed to have completed once this method returns. The handlers created with #startScript: will be run in a new process controlled by the ScriptScheduler that created them, and wll run eventually"
+	^self signalEvent: (ScriptChangeEvent new setSender: self selector: eventName arguments: (Array with: newValue with: oldValue))

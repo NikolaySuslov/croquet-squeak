@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"initialize" : "ar 7/27/2007 15:56",
+		"receiver:selector:arguments:" : "ar 6/11/2002 19:32" },
+	"instance" : {
+		"accessLock" : "ar 7/27/2007 15:53",
+		"autoStartTrigger" : "ar 5/7/2005 18:26",
+		"isRunning" : "",
+		"myEventMap" : "bgf 9/12/2008 10:40",
+		"myEventMap:" : "bgf 9/12/2008 10:41",
+		"myScripts" : "ar 8/5/2003 20:56",
+		"myScripts:" : "ar 8/5/2003 20:56",
+		"myTrigger" : "ar 2/7/2004 16:19",
+		"myTrigger:" : "ar 2/7/2004 16:20",
+		"onEventSourceChanged" : "ar 2/28/2005 15:49",
+		"onUpdateTrigger:from:" : "ar 5/7/2005 18:39",
+		"pauseScript" : "ar 1/22/2005 21:14",
+		"requestStop" : "jh 5/5/2003 19:11",
+		"runningScript" : "ar 4/24/2002 14:48",
+		"scriptStopped:" : "ar 1/8/2008 17:42",
+		"setDefaultScheduler" : "ar 5/22/2005 21:02",
+		"setScheduler:" : "ar 5/22/2005 16:29",
+		"terminateScript" : "ar 5/19/2002 23:48",
+		"value" : "bgf 2/11/2008 12:17",
+		"valueWithEvent:" : "ar 6/15/2009 13:46" } }

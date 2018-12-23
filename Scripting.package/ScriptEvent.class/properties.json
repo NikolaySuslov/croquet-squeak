@@ -1,0 +1,16 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sender",
+		"selector",
+		"arguments" ],
+	"name" : "ScriptEvent",
+	"pools" : [
+		 ],
+	"super" : "Link",
+	"type" : "normal" }

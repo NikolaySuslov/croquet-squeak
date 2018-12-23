@@ -1,0 +1,14 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process" ],
+	"name" : "ScriptProcessLinkStrong",
+	"pools" : [
+		 ],
+	"super" : "ScriptProcessLink",
+	"type" : "normal" }

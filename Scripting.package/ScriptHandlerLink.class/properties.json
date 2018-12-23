@@ -1,0 +1,14 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScriptHandlerLink",
+	"pools" : [
+		 ],
+	"super" : "Link",
+	"type" : "weak" }

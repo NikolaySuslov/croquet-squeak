@@ -1,0 +1,21 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"flags",
+		"semaphore",
+		"buffer",
+		"nextHandler",
+		"suspended",
+		"signaler",
+		"selector",
+		"myFarRef" ],
+	"name" : "ScriptEventObserver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

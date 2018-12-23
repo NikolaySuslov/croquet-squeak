@@ -1,0 +1,14 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScriptChangeEvent",
+	"pools" : [
+		 ],
+	"super" : "ScriptEvent",
+	"type" : "normal" }

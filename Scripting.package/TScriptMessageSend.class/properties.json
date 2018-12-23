@@ -1,0 +1,14 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"myScripts" ],
+	"name" : "TScriptMessageSend",
+	"pools" : [
+		 ],
+	"super" : "ScriptMessageSend",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+suspended
+	^suspended == true

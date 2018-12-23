@@ -1,0 +1,1 @@
+An asynchronous script message to be used with Croquet (i.e., utilizing #future instead of script processes).

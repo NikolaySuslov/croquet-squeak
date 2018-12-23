@@ -1,0 +1,14 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScriptTickEvent",
+	"pools" : [
+		 ],
+	"super" : "ScriptEvent",
+	"type" : "normal" }

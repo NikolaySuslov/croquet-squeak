@@ -1,0 +1,16 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"firstEvent",
+		"lastEvent",
+		"size" ],
+	"name" : "ScriptEventBuffer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

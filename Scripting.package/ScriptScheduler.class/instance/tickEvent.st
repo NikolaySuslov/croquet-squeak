@@ -1,0 +1,3 @@
+accessing
+tickEvent
+	^myTickEvent shallowCopy

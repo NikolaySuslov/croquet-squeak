@@ -1,0 +1,3 @@
+testing
+isRunning
+	^myProcess notNil

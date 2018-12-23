@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clock" : "ar 11/10/2004 17:57",
+		"eventTracer" : "ar 5/17/2002 20:16",
+		"eventTracer:" : "ar 5/17/2002 20:17",
+		"isScriptingProcess" : "ar 7/7/2001 15:30",
+		"isSystemProcess" : "ar 3/4/2002 12:42",
+		"island" : "ar 12/8/2009 20:13",
+		"island:" : "ar 12/8/2009 21:56",
+		"scheduler" : "ar 11/10/2004 17:53",
+		"traceEvents" : "ar 5/17/2002 20:12",
+		"traceEvents:" : "ar 5/17/2002 20:16" } }

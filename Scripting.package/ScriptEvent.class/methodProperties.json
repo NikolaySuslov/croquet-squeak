@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"arguments" : "ar 7/14/2001 16:33",
+		"coalesceEvents" : "ar 1/8/2008 17:47",
+		"droppedEvent" : "ar 1/10/2008 17:23",
+		"droppedEventStreamOfSize:" : "ar 1/10/2008 17:44",
+		"firstEvent" : "ar 9/8/2004 16:19",
+		"handler" : "ar 7/20/2001 21:19",
+		"messageArguments" : "ar 4/21/2005 21:57",
+		"priorEvent" : "ar 1/10/2008 17:45",
+		"priorEvent:" : "ar 1/10/2008 17:23",
+		"selector" : "ar 7/14/2001 16:33",
+		"sender" : "ar 7/14/2001 16:33",
+		"setArguments:" : "ar 7/20/2001 18:35",
+		"setSender:" : "ar 2/9/2004 18:06",
+		"setSender:selector:" : "ar 7/14/2001 16:33",
+		"setSender:selector:arguments:" : "ar 7/14/2001 16:33",
+		"withDroppedEvents" : "ar 7/20/2001 20:55",
+		"withDroppedEventsDo:" : "ar 1/10/2008 17:45" } }

@@ -1,0 +1,3 @@
+private-events
+myEventMap
+	^myEventMap

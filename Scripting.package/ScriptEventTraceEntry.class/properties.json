@@ -1,0 +1,17 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"event",
+		"message",
+		"script",
+		"parent" ],
+	"name" : "ScriptEventTraceEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,30 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FlagScriptDone",
+		"FlagScriptSignalResume",
+		"FlagScriptSignalWait",
+		"FlagScriptStarted",
+		"FlagScriptStopRequest",
+		"FlagScriptTraceEvents" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"event",
+		"message",
+		"result",
+		"flags",
+		"properties",
+		"scheduler",
+		"myEventMap",
+		"myLink",
+		"myTriggerBlock",
+		"myHandler",
+		"topContext" ],
+	"name" : "ScriptProcess",
+	"pools" : [
+		 ],
+	"super" : "Process",
+	"type" : "normal" }

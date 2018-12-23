@@ -1,0 +1,14 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "DropAllButLastEvent",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

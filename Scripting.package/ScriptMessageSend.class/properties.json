@@ -1,0 +1,17 @@
+{
+	"category" : "Scripting-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eventSpec",
+		"extraArgs",
+		"paused",
+		"myFarRef" ],
+	"name" : "ScriptMessageSend",
+	"pools" : [
+		 ],
+	"super" : "MessageSend",
+	"type" : "normal" }

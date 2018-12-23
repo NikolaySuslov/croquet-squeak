@@ -1,0 +1,3 @@
+testing
+isSystemProcess
+	^false
