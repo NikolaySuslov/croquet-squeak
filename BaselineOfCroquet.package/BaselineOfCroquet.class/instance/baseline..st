@@ -17,6 +17,14 @@ baseline: spec
 				package: 'Scripting'
                     with: [ spec requires: #('Logging' 'Script-Preload') ];
 				package: 'Islands'
-					 with: [ spec requires: #('Scripting') ].
+					 with: [ spec requires: #('Scripting') ];
+				package: 'Croquet-Misc' 
+					with: [ spec requires: #('Islands') ];
+				package: 'Croquet-Kernel'
+					with: [ spec requires: #('Croquet-Misc') ];
+				package: 'Croquet-Router'
+					with: [ spec requires: #('Croquet-Kernel') ];
+				package: 'Croquet-Contacts'
+					with: [ spec requires: #('Croquet-Router') ].
             spec
-                group: 'default' with: #('3DTransform' 'Islands')]
+                group: 'default' with: #('3DTransform' 'Croquet-Contacts')]
