@@ -15,6 +15,8 @@ baseline: spec
 				package: 'Logging';
 				package: 'Script-Preload';
 				package: 'Scripting'
-                    with: [ spec requires: #('Logging' 'Script-Preload') ].
+                    with: [ spec requires: #('Logging' 'Script-Preload') ];
+				package: 'Islands'
+					 with: [ spec requires: #('Scripting') ].
             spec
-                group: 'default' with: #('3DTransform' 'Scripting')]
+                group: 'default' with: #('3DTransform' 'Islands')]
