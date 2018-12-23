@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"editPortal",
+		"ghostFrame",
+		"ghostParent",
+		"ghostChild" ],
+	"name" : "TEditBox3D",
+	"pools" : [
+		 ],
+	"super" : "TScrollBox3D",
+	"type" : "normal" }

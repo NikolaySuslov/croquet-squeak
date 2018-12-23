@@ -1,0 +1,4 @@
+accessing
+eventNone
+
+	^ EventNone.

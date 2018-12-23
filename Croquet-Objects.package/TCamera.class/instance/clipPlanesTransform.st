@@ -1,0 +1,4 @@
+transform
+clipPlanesTransform
+
+	^ clipPlanesTransform.

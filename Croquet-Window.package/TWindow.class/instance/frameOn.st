@@ -1,0 +1,4 @@
+accessing
+frameOn
+
+	^ windowFrame frameOn.

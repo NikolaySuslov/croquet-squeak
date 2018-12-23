@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"initializeWithSize:" : "ar 9/30/2004 12:39" },
+	"instance" : {
+		"envTexture:" : "das 5/19/2002 00:11",
+		"eventMask" : "ar 1/27/2006 14:22",
+		"impulse:" : "ar 1/15/2006 16:26",
+		"initialize" : "ar 1/15/2006 16:24",
+		"initializeWithSize:" : "ar 2/7/2006 17:01",
+		"pointerDown:" : "ar 1/15/2006 16:08",
+		"pointerMove:" : "ar 2/1/2006 16:47",
+		"renderAlpha:" : "ar 1/15/2006 16:21",
+		"step" : "ar 1/15/2006 16:25",
+		"texture:" : "das 5/19/2002 01:45" } }

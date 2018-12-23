@@ -1,0 +1,22 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 6/5/2006 20:35",
+	"instvars" : [
+		"postcard",
+		"inPortal",
+		"scale",
+		"transform",
+		"clipBox",
+		"boundSphere",
+		"boundsChanged",
+		"cube",
+		"blocked" ],
+	"name" : "TPortal3D",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

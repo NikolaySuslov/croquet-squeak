@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"boundsDepth:" : "das 7/1/2006 11:07",
+		"clear" : "das 6/30/2006 08:08",
+		"colors:" : "das 6/30/2006 08:08",
+		"faces:" : "das 6/30/2006 08:13",
+		"initBounds" : "das 8/1/2006 17:44",
+		"initialize" : "das 7/1/2006 11:07",
+		"normalizeDown:" : "das 6/30/2006 08:08",
+		"normalizeUp:" : "das 6/30/2006 08:08",
+		"normals:" : "das 6/30/2006 08:08",
+		"pick:" : "das 7/1/2006 11:13",
+		"pointSize:" : "das 6/30/2006 08:08",
+		"provideColors" : "das 6/30/2006 08:08",
+		"renderPrimitive:" : "das 6/30/2006 12:00",
+		"sphericalShell:" : "das 6/30/2006 08:08",
+		"sphericalShell:outerRadius:innerRadius:" : "das 6/30/2006 08:08",
+		"vertices:" : "das 6/30/2006 08:08" } }

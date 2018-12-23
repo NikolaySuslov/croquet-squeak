@@ -1,0 +1,3 @@
+exporting
+exportLiteral: value
+	^value

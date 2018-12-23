@@ -1,0 +1,31 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 4/3/2006 01:53",
+	"instvars" : [
+		"target",
+		"frameID",
+		"frame",
+		"framePosition",
+		"portal",
+		"portalPoint",
+		"parent",
+		"distance",
+		"distanceSquared",
+		"index",
+		"normal",
+		"point",
+		"globalPoint",
+		"triangle",
+		"cameraTransform",
+		"rayTransform",
+		"events",
+		"scale" ],
+	"name" : "TXSelection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

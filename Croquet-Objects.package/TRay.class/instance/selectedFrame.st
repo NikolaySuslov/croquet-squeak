@@ -1,0 +1,3 @@
+accessing
+selectedFrame
+	^ selection frame

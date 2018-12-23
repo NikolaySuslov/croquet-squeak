@@ -1,0 +1,4 @@
+initialize
+faceGroups
+
+	^ faceGroups.

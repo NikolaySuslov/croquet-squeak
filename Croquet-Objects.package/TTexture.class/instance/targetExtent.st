@@ -1,0 +1,4 @@
+accessing
+targetExtent
+
+	^ tform extent.

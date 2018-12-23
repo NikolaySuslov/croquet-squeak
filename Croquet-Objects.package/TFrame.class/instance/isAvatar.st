@@ -1,0 +1,4 @@
+testing
+isAvatar
+
+	^ false.

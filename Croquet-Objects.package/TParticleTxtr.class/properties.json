@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 12:57",
+	"instvars" : [
+		"textures",
+		"texture",
+		"pTexture",
+		"rectangle" ],
+	"name" : "TParticleTxtr",
+	"pools" : [
+		 ],
+	"super" : "TParticle",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+transform
+quaternion
+
+	^ localTransform asQuaternion.

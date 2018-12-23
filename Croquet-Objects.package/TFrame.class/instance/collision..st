@@ -1,0 +1,4 @@
+enterExit
+collision: frame
+
+	^ false.

@@ -1,0 +1,24 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 12:19",
+	"instvars" : [
+		"type",
+		"local",
+		"position",
+		"ambientColor",
+		"diffuseColor",
+		"specularColor",
+		"spotDirection",
+		"spotExponent",
+		"spotCutoff",
+		"renderObject",
+		"distance" ],
+	"name" : "TLight",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "TGroup",
+	"type" : "normal" }

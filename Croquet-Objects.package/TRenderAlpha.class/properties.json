@@ -1,0 +1,18 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 14:05",
+	"instvars" : [
+		"tObject",
+		"transform",
+		"distance",
+		"parent",
+		"transparency" ],
+	"name" : "TRenderAlpha",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

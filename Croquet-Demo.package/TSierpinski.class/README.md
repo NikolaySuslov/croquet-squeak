@@ -1,0 +1,1 @@
+TSierpinski generates a Sierpinski pyramid. 

@@ -1,0 +1,3 @@
+events
+wantsBlueButton
+	^rectFront wantsBlueButton

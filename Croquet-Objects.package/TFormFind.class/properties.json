@@ -1,0 +1,22 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sha",
+		"url",
+		"distance",
+		"routerAddress",
+		"routerID",
+		"bMipmap",
+		"bShrinkFit",
+		"extension",
+		"controllerID" ],
+	"name" : "TFormFind",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

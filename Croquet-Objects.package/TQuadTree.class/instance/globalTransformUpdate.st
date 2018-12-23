@@ -1,0 +1,4 @@
+accessing
+globalTransformUpdate
+
+	self reinstall.

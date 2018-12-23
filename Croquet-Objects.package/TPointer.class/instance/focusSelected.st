@@ -1,0 +1,4 @@
+picking
+focusSelected
+
+	^focusSelected.

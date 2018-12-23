@@ -1,0 +1,4 @@
+events
+handlesKeyboard: ptr
+
+	^true.

@@ -1,0 +1,4 @@
+fog properties
+fogDensity
+
+	^ fogDensity.

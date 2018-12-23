@@ -1,0 +1,4 @@
+accessing
+radius
+	
+	^ boundSphere radius

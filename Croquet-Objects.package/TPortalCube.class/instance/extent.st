@@ -1,0 +1,4 @@
+accessing
+extent
+
+	^ cube extent.

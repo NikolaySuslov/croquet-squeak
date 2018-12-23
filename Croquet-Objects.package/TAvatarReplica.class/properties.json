@@ -1,0 +1,37 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 1/29/2006 15:22",
+	"instvars" : [
+		"downPointer",
+		"footFrame",
+		"height",
+		"lastDownFrame",
+		"lastDownPosition",
+		"driving",
+		"speedControl",
+		"sticky",
+		"controlPitch",
+		"lastAliveTime",
+		"aliveTimeout",
+		"carrying",
+		"viewAngle",
+		"viewAspect",
+		"gotoTransform",
+		"gotoCount",
+		"snapTrans",
+		"costume",
+		"head",
+		"lastPosition",
+		"lockStep",
+		"lockLockStep",
+		"userID",
+		"originalTransforms" ],
+	"name" : "TAvatarReplica",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

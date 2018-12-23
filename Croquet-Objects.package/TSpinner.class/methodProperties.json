@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"contents" : "ar 1/15/2006 16:48",
+		"contents:" : "ar 1/16/2006 19:20",
+		"doDrag:" : "das 1/31/2006 22:07",
+		"doSpin:" : "das 2/3/2006 21:47",
+		"eventMask" : "ar 1/27/2006 14:22",
+		"initMaterial" : "ar 2/7/2006 17:00",
+		"initialize" : "das 7/5/2006 13:20",
+		"matDown" : "",
+		"matDown:" : "",
+		"matNil" : "",
+		"matNorm" : "",
+		"matNorm:" : "",
+		"matOver" : "",
+		"matOver:" : "",
+		"pointerDown:" : "das 1/31/2006 22:05",
+		"pointerEnter:" : "ar 1/27/2006 14:39",
+		"pointerLeave:" : "ar 1/27/2006 14:40",
+		"pointerMove:" : "das 1/31/2006 22:09",
+		"pointerOver:" : "ar 1/15/2006 16:39",
+		"pointerUp:" : "ar 1/27/2006 14:38",
+		"spin" : "",
+		"spin:" : "ar 1/15/2006 16:42",
+		"step" : "das 1/26/2006 09:57" } }

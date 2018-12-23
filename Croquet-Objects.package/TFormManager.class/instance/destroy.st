@@ -1,0 +1,3 @@
+initialize
+destroy
+	self stopLoaderProcess.

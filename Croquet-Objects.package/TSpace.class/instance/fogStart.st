@@ -1,0 +1,4 @@
+fog properties
+fogStart
+
+	^ fogStart.

@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 14:02",
+	"instvars" : [
+		"extent",
+		"location",
+		"flip",
+		"aspect",
+		"aspectFixed",
+		"norm",
+		"divisions" ],
+	"name" : "TRectangle",
+	"pools" : [
+		 ],
+	"super" : "TUpdatingMesh",
+	"type" : "normal" }

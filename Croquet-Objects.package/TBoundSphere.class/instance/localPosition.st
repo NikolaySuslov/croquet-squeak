@@ -1,0 +1,4 @@
+access
+localPosition
+
+	^ localPosition.

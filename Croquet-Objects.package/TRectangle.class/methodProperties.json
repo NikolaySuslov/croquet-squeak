@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aspect" : "jcg 6/10/2006 14:36",
+		"aspect:" : "jcg 6/10/2006 14:37",
+		"aspectFixed" : "jcg 6/10/2006 14:37",
+		"aspectFixed:" : "jcg 6/10/2006 14:37",
+		"divisions:" : "das 7/4/2006 17:30",
+		"extent" : "jcg 6/10/2006 14:37",
+		"extent:" : "das 8/22/2006 15:37",
+		"extent:aspect:" : "ar 9/25/2006 15:22",
+		"extentRect:" : "jcg 6/10/2006 14:37",
+		"flip:" : "jcg 6/10/2006 14:39",
+		"frameBox" : "jcg 6/10/2006 14:40",
+		"initBounds" : "jcg 6/10/2006 14:40",
+		"initialize" : "das 7/5/2006 14:31",
+		"location" : "jcg 6/10/2006 14:40",
+		"location:" : "jcg 6/10/2006 14:40",
+		"normal:" : "jcg 6/10/2006 16:14",
+		"pick:" : "jcg 6/10/2006 14:45",
+		"scale:" : "jcg 6/10/2006 14:40",
+		"update11" : "das 7/4/2006 14:08",
+		"updateMesh" : "das 7/4/2006 17:00",
+		"updateX" : "das 7/5/2006 10:04",
+		"updateY" : "das 7/5/2006 10:02" } }

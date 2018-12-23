@@ -1,0 +1,36 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		"protoData" ],
+	"classvars" : [
+		"EventBlockRecurse",
+		"EventKeyboard",
+		"EventMaskBits",
+		"EventNone",
+		"EventPointerDown",
+		"EventPointerOver" ],
+	"commentStamp" : "das 1/22/2006 17:07",
+	"instvars" : [
+		"objectName",
+		"objectID",
+		"objectOwner",
+		"ownedObjects",
+		"localTransform",
+		"globalTransform",
+		"frameRoot",
+		"frameParent",
+		"frameChildren",
+		"frameChanged",
+		"visible",
+		"solid",
+		"oglid",
+		"currentUser",
+		"eventMask",
+		"test",
+		"hiliteColor" ],
+	"name" : "TFrame",
+	"pools" : [
+		"GLExtConstants",
+		"OpenGLConstants" ],
+	"super" : "TObject",
+	"type" : "normal" }

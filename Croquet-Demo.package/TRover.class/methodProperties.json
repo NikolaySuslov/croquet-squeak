@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"eventMask" : "ar 1/27/2006 14:22",
+		"initialize" : "das 2/1/2006 17:46",
+		"keyStroke:" : "das 5/9/2006 08:23",
+		"setSpeed:" : "das 2/1/2006 17:43",
+		"setTurn:" : "das 2/1/2006 15:14",
+		"startStepping" : "das 2/2/2006 00:48",
+		"step" : "das 2/2/2006 00:44",
+		"stopStepping" : "das 2/1/2006 17:43",
+		"turnAngle" : "das 1/30/2003 08:34",
+		"turnAngle:" : "das 1/30/2003 08:34",
+		"updateTurn" : "ar 1/15/2006 19:09" } }

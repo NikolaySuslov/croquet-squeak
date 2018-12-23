@@ -1,0 +1,4 @@
+accessing
+selectedDistance
+	
+	^ selection distance.

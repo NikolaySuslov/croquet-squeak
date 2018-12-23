@@ -1,0 +1,30 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"target",
+		"frame",
+		"framePosition",
+		"portal",
+		"portalPoint",
+		"parent",
+		"distance",
+		"distanceSquared",
+		"index",
+		"normal",
+		"point",
+		"globalPoint",
+		"triangle",
+		"cameraTransform",
+		"rayTransform",
+		"events",
+		"scale" ],
+	"name" : "TSelection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

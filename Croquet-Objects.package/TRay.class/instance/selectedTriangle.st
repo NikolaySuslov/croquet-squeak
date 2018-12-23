@@ -1,0 +1,4 @@
+accessing
+selectedTriangle
+
+	^selection triangle

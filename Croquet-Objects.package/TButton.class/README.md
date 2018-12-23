@@ -1,0 +1,4 @@
+TButton is an active frame that tracks user events to initiate actions. When the user's pointer is over a child frame of a TButton it is highlighted. When it is clicked, a message can be sent to a target. TButton can have two different child frames to show a boolean state and generate two different messages as it toggles. The TButton itself has no representation, but expects to contain some kind of visible TFrame object that is selectable. This frame (or frames) is added using the #initializeWithFrame: or #initializeWithFrame:frame2: methods. (This should probably be changed to #contents:)
+
+When you use the targetWhileDown:action: this will create a TButton that sends the action message to the target as long as the button is pressed.
+DAS

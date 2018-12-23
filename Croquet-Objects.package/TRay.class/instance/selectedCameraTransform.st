@@ -1,0 +1,3 @@
+accessing
+selectedCameraTransform
+	^ selection cameraTransform.

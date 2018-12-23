@@ -1,0 +1,3 @@
+scripts
+player
+	^self myPlayer

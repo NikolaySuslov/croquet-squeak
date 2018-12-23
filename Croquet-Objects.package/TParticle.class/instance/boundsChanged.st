@@ -1,0 +1,4 @@
+initialize
+boundsChanged
+
+	boundsChanged := true.

@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 1/22/2005 13:10",
+	"instvars" : [
+		"buttonWidth",
+		"radio",
+		"radioButton" ],
+	"name" : "TButtonHolder",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "TRectangle",
+	"type" : "normal" }

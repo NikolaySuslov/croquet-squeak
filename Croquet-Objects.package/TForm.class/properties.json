@@ -1,0 +1,25 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultForm" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"url",
+		"form",
+		"updateRect",
+		"extent",
+		"bMipmap",
+		"bShrinkFit",
+		"extension",
+		"memUsed",
+		"objectID",
+		"bThumb",
+		"static" ],
+	"name" : "TForm",
+	"pools" : [
+		"GLExtConstants",
+		"OpenGLConstants" ],
+	"super" : "TMediaResource",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"angle" ],
+	"name" : "TSpinTest",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

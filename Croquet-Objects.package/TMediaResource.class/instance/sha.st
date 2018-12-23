@@ -1,0 +1,3 @@
+accessing
+sha
+	^ sha copy

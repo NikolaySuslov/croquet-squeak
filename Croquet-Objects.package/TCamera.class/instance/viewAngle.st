@@ -1,0 +1,4 @@
+accessing
+viewAngle
+
+	^ viewAngle.

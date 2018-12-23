@@ -1,0 +1,3 @@
+fog properties
+fogColor
+	^color

@@ -1,0 +1,25 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contents",
+		"spin",
+		"lastSpin",
+		"matNorm",
+		"matOver",
+		"matDown",
+		"selectedPoint",
+		"selectedFrame",
+		"tinyCube",
+		"stepping",
+		"cameraNorm",
+		"selectedRadiusSquared" ],
+	"name" : "TSpinner",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

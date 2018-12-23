@@ -1,0 +1,3 @@
+accessing
+targetForm
+	^tform form.

@@ -1,0 +1,4 @@
+accessing
+selectedFramePosition
+
+	^selection framePosition.

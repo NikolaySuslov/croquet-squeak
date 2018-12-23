@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 4/3/2006 01:43",
+	"instvars" : [
+		 ],
+	"name" : "TBillboard",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

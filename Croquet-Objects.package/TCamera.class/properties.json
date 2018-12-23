@@ -1,0 +1,33 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bounds",
+		"viewAngle",
+		"zNear",
+		"zFar",
+		"zScreen",
+		"length",
+		"clipPlanes",
+		"clipPlanesTransform",
+		"viewClip",
+		"portalClip",
+		"portalPlane",
+		"currentPortal",
+		"currentSpace",
+		"texture",
+		"killFrame",
+		"frameScale",
+		"frameScaleSquared",
+		"frameScaleInverse",
+		"subCornerVector",
+		"cornerVector" ],
+	"name" : "TCamera",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Demo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target",
+		"contents",
+		"speed",
+		"count",
+		"normalMaterial",
+		"overMaterial",
+		"downMaterial" ],
+	"name" : "TDemoFish",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

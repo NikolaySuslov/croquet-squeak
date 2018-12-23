@@ -1,0 +1,19 @@
+{
+	"category" : "Croquet-Demo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"myEventMap",
+		"space",
+		"globalTransform",
+		"postcard",
+		"form",
+		"update" ],
+	"name" : "TSnapshot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

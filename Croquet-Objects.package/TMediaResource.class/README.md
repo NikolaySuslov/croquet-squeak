@@ -1,0 +1,1 @@
+Base class for resources that can live outside and be shared between islands.

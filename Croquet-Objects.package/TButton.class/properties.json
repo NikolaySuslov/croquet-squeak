@@ -1,0 +1,33 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"enable",
+		"frame",
+		"frame2",
+		"action",
+		"target",
+		"action2",
+		"target2",
+		"animateTime",
+		"color",
+		"persist",
+		"switch",
+		"spin",
+		"doSpin",
+		"local",
+		"deltaSpin",
+		"stepping",
+		"whileDown",
+		"stepWhileDown",
+		"whileDownTime",
+		"pointerOnTop" ],
+	"name" : "TButton",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

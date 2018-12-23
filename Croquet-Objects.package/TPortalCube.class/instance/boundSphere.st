@@ -1,0 +1,4 @@
+initialize
+boundSphere
+
+	^ cube boundSphere.

@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jcg 6/10/2006 07:57",
+	"instvars" : [
+		"changed" ],
+	"name" : "TUpdatingMesh",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "TMesh",
+	"type" : "normal" }

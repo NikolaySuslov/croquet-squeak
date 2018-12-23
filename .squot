@@ -13,5 +13,9 @@ OrderedDictionary {
 	'Islands.package' : #SquotCypressCodeSerializer,
 	'Croquet-Misc.package' : #SquotCypressCodeSerializer,
 	'Croquet-Kernel.package' : #SquotCypressCodeSerializer,
-	'Croquet-Router.package' : #SquotCypressCodeSerializer
+	'Croquet-Router.package' : #SquotCypressCodeSerializer,
+	'Croquet-Copier.package' : #SquotCypressCodeSerializer,
+	'Croquet-Objects.package' : #SquotCypressCodeSerializer,
+	'Croquet-Demo.package' : #SquotCypressCodeSerializer,
+	'Croquet-Window.package' : #SquotCypressCodeSerializer
 }

@@ -1,0 +1,18 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertices",
+		"normals",
+		"colors",
+		"pointSize",
+		"box" ],
+	"name" : "TPointCloud",
+	"pools" : [
+		 ],
+	"super" : "TPrimitive",
+	"type" : "normal" }

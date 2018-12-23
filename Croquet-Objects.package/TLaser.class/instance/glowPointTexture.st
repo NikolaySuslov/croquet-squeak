@@ -1,0 +1,3 @@
+accessing
+glowPointTexture
+	^glowPointMaterial texture

@@ -1,0 +1,4 @@
+accessing
+localPosition
+
+	^ boundSphere localPosition.

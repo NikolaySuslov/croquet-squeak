@@ -1,0 +1,2 @@
+*Croquet-Copier
+postImportFromIslandCopier: importer

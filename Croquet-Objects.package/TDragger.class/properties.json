@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"test2" ],
+	"name" : "TDragger",
+	"pools" : [
+		 ],
+	"super" : "TSpinner",
+	"type" : "normal" }

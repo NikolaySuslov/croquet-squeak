@@ -1,0 +1,4 @@
+accessing
+matNorm
+	
+	^ matNorm.

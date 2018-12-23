@@ -1,0 +1,4 @@
+accessing
+isSolid
+
+	^ false.

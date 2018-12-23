@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jcg 11/15/2006 09:58",
+	"instvars" : [
+		"sha" ],
+	"name" : "TMediaResource",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

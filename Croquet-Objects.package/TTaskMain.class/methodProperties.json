@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doKeyDown:" : "das 4/23/2006 16:02",
+		"doKeyStroke:" : "das 4/23/2006 16:03",
+		"doKeyUp:" : "das 4/23/2006 16:03",
+		"doPointerDown:" : "das 8/10/2006 17:58",
+		"doPointerEnter:" : "das 4/23/2006 16:21",
+		"doPointerLeave:" : "das 4/23/2006 16:19",
+		"doPointerMove:" : "das 4/23/2006 16:06",
+		"doPointerOver:" : "das 4/23/2006 16:21",
+		"doPointerUp:" : "das 8/10/2006 17:58",
+		"forcePick" : "das 4/23/2006 16:33",
+		"harness:" : "das 8/10/2006 10:43" } }

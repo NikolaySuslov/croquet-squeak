@@ -1,0 +1,19 @@
+{
+	"category" : "Croquet-Window",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"extent",
+		"gotoButton",
+		"killButton",
+		"openButton",
+		"grabButton",
+		"cameraButton" ],
+	"name" : "TWindowButtons",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 13:32",
+	"instvars" : [
+		"texture",
+		"material",
+		"boundsChanged",
+		"boundSphere" ],
+	"name" : "TPrimitive",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

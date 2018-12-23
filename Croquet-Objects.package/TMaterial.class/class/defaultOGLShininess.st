@@ -1,0 +1,4 @@
+class initialization
+defaultOGLShininess
+
+	^ OGLDefaultShininess.

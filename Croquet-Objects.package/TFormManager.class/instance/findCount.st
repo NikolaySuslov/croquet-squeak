@@ -1,0 +1,3 @@
+accessing
+findCount
+	^findList size

@@ -1,0 +1,4 @@
+accessing
+selectedGlobalPoint
+
+	^ selection globalPoint

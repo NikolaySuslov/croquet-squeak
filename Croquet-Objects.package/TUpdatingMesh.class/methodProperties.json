@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"boundSphere" : "das 7/4/2006 16:54",
+		"boundsChanged" : "jcg 6/11/2006 17:03",
+		"checkAlpha" : "das 7/4/2006 16:55",
+		"collapse" : "das 7/4/2006 16:55",
+		"faceGroupsDo:" : "das 7/4/2006 16:55",
+		"frameBox" : "das 7/4/2006 16:55",
+		"initialize" : "das 7/5/2006 14:31",
+		"initializeWithVertices:alias:norms:textureUV:faceGroups:material:mode:" : "das 7/4/2006 16:55",
+		"material:" : "bgf 7/8/2006 20:12",
+		"materialAndTexture:" : "das 7/5/2006 14:10",
+		"normals" : "das 7/4/2006 16:55",
+		"renderPrimitive:alpha:" : "das 7/4/2006 16:55",
+		"scale:" : "das 7/4/2006 16:55",
+		"texCoords" : "das 7/4/2006 16:56",
+		"texture" : "das 7/7/2006 20:29",
+		"texture:" : "das 7/5/2006 10:24",
+		"updateMesh" : "das 7/4/2006 16:54",
+		"validateFaceGroups" : "das 7/4/2006 16:56",
+		"vertices" : "das 7/4/2006 16:56" } }

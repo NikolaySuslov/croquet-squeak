@@ -1,0 +1,1 @@
+See comment for TAvatarUser.

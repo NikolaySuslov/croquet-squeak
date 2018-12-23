@@ -1,0 +1,24 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 12:04",
+	"instvars" : [
+		"shaft",
+		"point",
+		"selected",
+		"arrowLength",
+		"radius",
+		"length",
+		"color",
+		"glowMaterial",
+		"glowPointMaterial",
+		"spell",
+		"attachment" ],
+	"name" : "TLaser",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

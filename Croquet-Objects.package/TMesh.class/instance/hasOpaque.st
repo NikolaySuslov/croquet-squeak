@@ -1,0 +1,4 @@
+render
+hasOpaque
+
+	^ opaque.

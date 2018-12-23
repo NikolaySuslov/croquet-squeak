@@ -1,0 +1,30 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TDownRay" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"automatic",
+		"framePointer",
+		"framePosition",
+		"sphereDistSquared",
+		"currentFrame",
+		"selection",
+		"lastSelection",
+		"doSelect",
+		"testDistance",
+		"downRay",
+		"minDistance",
+		"minDistanceSquared",
+		"maxDistance",
+		"maxDistanceSquared",
+		"frameScale",
+		"frameScaleSquared",
+		"excludeFrame" ],
+	"name" : "TRay",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

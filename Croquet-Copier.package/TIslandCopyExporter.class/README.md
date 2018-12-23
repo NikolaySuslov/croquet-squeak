@@ -1,0 +1,1 @@
+The exporter is responsible for create a binary blueprint of the object to copy.

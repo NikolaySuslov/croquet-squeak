@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addAttribute:value:" : "ar 1/14/2006 23:31",
+		"attributeAt:" : "ar 1/14/2006 23:31",
+		"attributeAt:ifAbsent:" : "ar 1/14/2006 23:31",
+		"checkVersion:" : "ar 1/15/2006 00:06",
+		"import:" : "ar 1/15/2006 00:11",
+		"import:migratingTo:" : "ar 1/14/2006 23:32",
+		"importData:" : "ar 1/15/2006 00:19",
+		"importStream:" : "ar 1/14/2006 23:32",
+		"initialize" : "ar 1/15/2006 00:17",
+		"remap:" : "ar 1/14/2006 23:32" } }

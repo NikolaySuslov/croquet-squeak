@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subTrees" ],
+	"name" : "TOctree",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

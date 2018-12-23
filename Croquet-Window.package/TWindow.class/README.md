@@ -1,0 +1,1 @@
+TWindow is the Croquet windowing system. It can handle both 2D and 3D contents. Objects that are primarily 2D can be added via #contents:. 3D objects that require the removal of the back face of the window can be added via #contents3D:.

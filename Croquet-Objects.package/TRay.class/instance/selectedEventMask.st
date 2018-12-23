@@ -1,0 +1,4 @@
+accessing
+selectedEventMask
+
+	^ selection eventMask

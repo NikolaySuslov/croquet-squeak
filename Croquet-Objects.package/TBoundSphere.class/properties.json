@@ -1,0 +1,25 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 10:19",
+	"instvars" : [
+		"localPosition",
+		"globalPosition",
+		"radius",
+		"radiusSquared",
+		"children",
+		"vertices",
+		"frame",
+		"box",
+		"normal",
+		"up",
+		"side",
+		"offset" ],
+	"name" : "TBoundSphere",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

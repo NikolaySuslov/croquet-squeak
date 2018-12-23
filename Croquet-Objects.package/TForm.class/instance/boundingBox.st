@@ -1,0 +1,4 @@
+accessing
+boundingBox
+
+	^form boundingBox.

@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 8/22/2006 16:09",
+	"instvars" : [
+		"corner" ],
+	"name" : "TLogoBug",
+	"pools" : [
+		 ],
+	"super" : "TTexture",
+	"type" : "normal" }

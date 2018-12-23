@@ -1,0 +1,4 @@
+accessing
+trueExtent
+
+	^ form extent.

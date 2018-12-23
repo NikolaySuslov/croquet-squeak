@@ -1,0 +1,4 @@
+accessing
+triangle
+
+	^triangle copy

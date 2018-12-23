@@ -1,0 +1,3 @@
+accessing
+magFilter
+	^ tform magFilter.

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addAttachment:" : "das 3/9/2004 13:59",
+		"color" : "DPR 5/29/2004 11:39",
+		"color:" : "bgf 7/19/2006 15:10",
+		"glowPointTexture" : "ar 1/14/2006 18:50",
+		"glowPointTexture:" : "ar 1/14/2006 18:50",
+		"glowTexture" : "ar 1/14/2006 18:47",
+		"glowTexture:" : "ar 1/14/2006 18:47",
+		"initialize" : "das 7/5/2006 13:28",
+		"length:" : "ar 1/14/2006 14:56",
+		"removeAttachment" : "das 3/9/2004 14:00",
+		"scale:" : "das 9/14/2002 00:17" } }

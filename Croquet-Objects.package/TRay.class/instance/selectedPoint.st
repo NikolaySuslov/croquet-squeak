@@ -1,0 +1,4 @@
+accessing
+selectedPoint
+
+	^ selection point

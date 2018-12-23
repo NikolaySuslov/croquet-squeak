@@ -1,0 +1,29 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 13:49",
+	"instvars" : [
+		"quadCenter",
+		"quadSize",
+		"quadCorner",
+		"inBox",
+		"outBox",
+		"radius",
+		"center",
+		"spheres",
+		"depth",
+		"qtTL",
+		"qtTR",
+		"qtBL",
+		"qtBR",
+		"boundSphere",
+		"quadOn",
+		"inReinstall" ],
+	"name" : "TQuadTree",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

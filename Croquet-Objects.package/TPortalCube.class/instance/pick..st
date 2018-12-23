@@ -1,0 +1,4 @@
+initialize
+pick: ptr
+
+	^ false

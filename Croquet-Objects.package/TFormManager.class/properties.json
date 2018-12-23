@@ -1,0 +1,22 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "das 1/5/2006 00:10",
+	"instvars" : [
+		"textureDictionary",
+		"findList",
+		"sortedFindList",
+		"mutex",
+		"updateList",
+		"cacheMgr",
+		"loaderProcess",
+		"loaderSema",
+		"loaderDelay" ],
+	"name" : "TFormManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

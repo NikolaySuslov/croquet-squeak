@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cube",
+		"viewPoint" ],
+	"name" : "TPortalCube",
+	"pools" : [
+		 ],
+	"super" : "TPortal",
+	"type" : "normal" }

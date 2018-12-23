@@ -1,0 +1,4 @@
+accessing
+normal
+
+	^normal copy

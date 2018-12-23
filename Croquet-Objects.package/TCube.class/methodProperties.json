@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"initializeWithVertices:alias:norms:textureUV:faceGroups:material:" : "jcg 6/3/2006 10:47",
+		"new" : "jcg 6/3/2006 10:47",
+		"newWithMaterial:" : "jcg 6/4/2006 23:48" },
+	"instance" : {
+		"boxTop:bottom:" : "jcg 6/8/2006 23:14",
+		"colorize:" : "jcg 6/3/2006 09:38",
+		"extent" : "jcg 6/3/2006 09:38",
+		"extent:" : "jcg 6/8/2006 23:14",
+		"extentX:" : "jcg 6/8/2006 23:14",
+		"extentX:y:z:" : "jcg 6/8/2006 23:14",
+		"extentY:" : "jcg 6/8/2006 23:14",
+		"extentZ:" : "jcg 6/8/2006 23:14",
+		"frameBox" : "jcg 6/3/2006 10:42",
+		"initBounds" : "jcg 6/3/2006 10:43",
+		"initialize" : "das 7/5/2006 14:32",
+		"location" : "jcg 6/3/2006 10:42",
+		"location:" : "jcg 6/3/2006 10:42",
+		"locationX:y:z:" : "jcg 6/3/2006 10:42",
+		"pick:" : "bgf 7/15/2006 03:35",
+		"scale:" : "jcg 6/10/2006 08:07",
+		"updateMesh" : "bgf 7/13/2006 14:24" } }

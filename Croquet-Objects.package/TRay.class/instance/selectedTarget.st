@@ -1,0 +1,4 @@
+accessing
+selectedTarget
+
+	^ selection target

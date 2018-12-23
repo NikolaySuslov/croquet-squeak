@@ -1,0 +1,1 @@
+An object that constantly faces the camera when rendering.

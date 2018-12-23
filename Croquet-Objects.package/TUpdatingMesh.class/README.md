@@ -1,0 +1,1 @@
+This is a mesh that updates itself updates its vertices, etc. in response to various events.  Each subclass provides a different method for generating its geometry.

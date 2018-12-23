@@ -1,0 +1,1 @@
+This class simply turns off the transparency flag for the object that the avatar is carrying.

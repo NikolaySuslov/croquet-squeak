@@ -1,0 +1,21 @@
+{
+	"category" : "Croquet-Window",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"segments",
+		"radius",
+		"extent",
+		"frontNorm",
+		"frameOn",
+		"hiliteSection",
+		"materialHilite",
+		"doInside" ],
+	"name" : "TWindowFrame",
+	"pools" : [
+		 ],
+	"super" : "TUpdatingMesh",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tform",
+		"baseScale",
+		"isPremultiplied",
+		"textureMode",
+		"uvScale",
+		"uvOffset",
+		"uvAngle",
+		"textureMatrix" ],
+	"name" : "TTexture",
+	"pools" : [
+		 ],
+	"super" : "TRectangle",
+	"type" : "normal" }

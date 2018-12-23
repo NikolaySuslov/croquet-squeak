@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"focusSelected",
+		"pointerDown",
+		"isOverlay" ],
+	"name" : "TPointer",
+	"pools" : [
+		 ],
+	"super" : "TRay",
+	"type" : "normal" }

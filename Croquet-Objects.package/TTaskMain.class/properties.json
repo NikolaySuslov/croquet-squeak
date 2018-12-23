@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 4/24/2006 17:26",
+	"instvars" : [
+		"harness" ],
+	"name" : "TTaskMain",
+	"pools" : [
+		 ],
+	"super" : "TTask",
+	"type" : "normal" }

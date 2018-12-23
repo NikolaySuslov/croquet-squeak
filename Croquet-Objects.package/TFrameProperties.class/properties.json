@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"behaviors",
+		"player" ],
+	"name" : "TFrameProperties",
+	"pools" : [
+		 ],
+	"super" : "TObjectProperties",
+	"type" : "normal" }

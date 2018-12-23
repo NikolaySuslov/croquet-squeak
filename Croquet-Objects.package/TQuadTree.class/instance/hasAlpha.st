@@ -1,0 +1,4 @@
+render
+hasAlpha
+
+	^ false.

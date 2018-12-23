@@ -1,0 +1,22 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mode",
+		"vertices",
+		"faces",
+		"normals",
+		"colors",
+		"texCoords",
+		"pointSize",
+		"box",
+		"boundsDepth" ],
+	"name" : "TMeshSimple",
+	"pools" : [
+		 ],
+	"super" : "TPrimitive",
+	"type" : "normal" }

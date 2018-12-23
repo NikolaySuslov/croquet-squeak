@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"copy:to:" : "das 12/27/2005 16:43" },
+	"instance" : {
+		"contents" : "ar 1/15/2006 00:20",
+		"export:" : "ar 1/15/2006 00:21",
+		"exportFarRef:" : "ar 1/14/2006 23:37",
+		"exportLiteral:" : "ar 1/14/2006 23:36",
+		"exportObject:" : "ar 1/15/2006 00:13",
+		"exportOnIslandCopier:" : "ar 1/15/2006 00:29",
+		"exportProhibited:" : "bgf 7/3/2006 02:07",
+		"exportTFarRef:" : "ar 1/14/2006 23:37",
+		"initialize" : "ar 1/14/2006 23:41",
+		"literalClasses" : "sn 10/28/2018 10:20",
+		"remap:" : "ar 1/14/2006 23:47",
+		"writeDataOn:" : "ar 1/15/2006 00:21" } }

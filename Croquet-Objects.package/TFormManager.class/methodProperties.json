@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"clearDefault" : "ar 11/15/2006 12:14",
+		"default" : "ar 11/15/2006 12:14",
+		"default:" : "ar 1/30/2006 22:24",
+		"generateSHA:" : "ar 1/30/2006 12:51" },
+	"instance" : {
+		"addFile:mipmap:shrinkFit:extension:" : "jcg 8/3/2006 00:08",
+		"addFileNamed:mipmap:shrinkFit:extension:" : "bgf 6/28/2006 19:24",
+		"at:ifAbsentPut:" : "das 2/10/2006 10:20",
+		"cacheManager" : "ar 1/30/2006 12:36",
+		"cacheManager:" : "ar 1/30/2006 12:36",
+		"destroy" : "ar 1/30/2006 22:34",
+		"findCount" : "ar 2/3/2006 00:10",
+		"findTextureFileName:" : "das 12/31/2005 15:22",
+		"initialize" : "das 2/11/2006 15:28",
+		"loadNextTFF:" : "ar 1/31/2006 16:09",
+		"loadNextTFF:from:" : "ar 1/30/2006 22:57",
+		"log:" : "ar 1/31/2006 16:08",
+		"resolve:distance:" : "ar 1/31/2006 00:07",
+		"runLoaderProcess" : "ar 1/30/2006 22:48",
+		"startLoaderProcess" : "sn 2/25/2018 13:45",
+		"step" : "bgf 7/27/2006 16:36",
+		"stopLoaderProcess" : "ar 1/30/2006 22:34",
+		"substituteForm:" : "ar 1/30/2006 12:49",
+		"updateForm:tff:" : "ar 2/1/2006 22:49",
+		"updateList:" : "das 1/5/2006 21:59" } }

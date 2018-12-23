@@ -1,0 +1,4 @@
+accessing
+updateRect
+
+	^ updateRect.

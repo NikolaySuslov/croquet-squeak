@@ -1,0 +1,4 @@
+initialize
+hasOpaque
+
+	^ cube hasOpaque.

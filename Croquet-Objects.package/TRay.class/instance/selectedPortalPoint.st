@@ -1,0 +1,4 @@
+accessing
+selectedPortalPoint
+
+	^ selection portalPoint.

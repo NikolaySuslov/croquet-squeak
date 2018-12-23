@@ -1,0 +1,1 @@
+TTaskMain is the default TTask for managing events. Basically, all it does is forwards the events to the target object.

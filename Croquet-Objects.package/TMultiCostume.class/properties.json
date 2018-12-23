@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"costumes",
+		"costume" ],
+	"name" : "TMultiCostume",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

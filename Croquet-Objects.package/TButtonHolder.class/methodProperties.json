@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addChild:" : "das 5/5/2006 16:43",
+		"buttonWidth:" : "das 5/5/2006 16:43",
+		"doRadio:" : "das 2/8/2005 16:50",
+		"extent:" : "das 5/5/2006 16:43",
+		"initialize" : "das 5/5/2006 16:44",
+		"material:" : "das 1/21/2005 23:35",
+		"pick:" : "das 3/9/2004 15:14",
+		"radio:" : "das 8/5/2006 15:58",
+		"radioButton" : "das 1/22/2005 12:48",
+		"radioButton:" : "das 5/5/2006 16:43",
+		"radioOn" : "das 5/5/2006 16:44",
+		"render:" : "das 1/21/2005 23:34",
+		"renderAlpha:" : "das 3/12/2004 13:34" } }

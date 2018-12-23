@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jcg 6/10/2006 07:36",
+	"instvars" : [
+		"segments" ],
+	"name" : "TSphere",
+	"pools" : [
+		 ],
+	"super" : "TUpdatingMesh",
+	"type" : "normal" }

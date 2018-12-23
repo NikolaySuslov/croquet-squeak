@@ -1,0 +1,4 @@
+accessing
+selectedScale
+
+	^selection scale.

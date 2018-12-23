@@ -1,0 +1,1 @@
+TWaves illustrates a simple cellular based wave function to simulate water. It also uses environment mapping. The #texture: message sets the base texture - what shows up under the water, and the #envTexture: message sets the environment map texture.

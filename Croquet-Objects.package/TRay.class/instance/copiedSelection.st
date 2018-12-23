@@ -1,0 +1,3 @@
+accessing
+copiedSelection
+	^selection copy.

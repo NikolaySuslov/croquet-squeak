@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Copier",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"refMap",
+		"shapeMap",
+		"reshapeMap",
+		"attributes" ],
+	"name" : "TIslandCopyImporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

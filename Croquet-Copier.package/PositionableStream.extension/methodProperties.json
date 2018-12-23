@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"nextBytesInto:" : "ar 1/14/2006 23:54",
+		"nextUInt32" : "ar 1/14/2006 23:54",
+		"nextUInt32Put:" : "ar 1/14/2006 23:55",
+		"readWordsInto:" : "ar 1/14/2006 23:55",
+		"storeWordsFrom:" : "ar 1/14/2006 23:55" } }

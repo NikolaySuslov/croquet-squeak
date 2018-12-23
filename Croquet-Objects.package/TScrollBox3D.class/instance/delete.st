@@ -1,0 +1,4 @@
+actions
+delete
+
+	self outOfBox.

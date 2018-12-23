@@ -1,0 +1,4 @@
+accessing
+portalPoint
+
+	^ portalPoint copy

@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"postcard",
+		"outVector",
+		"blocked",
+		"locator",
+		"cameraDistance",
+		"ghost",
+		"overlays" ],
+	"name" : "TPortal",
+	"pools" : [
+		 ],
+	"super" : "TRectangle",
+	"type" : "normal" }

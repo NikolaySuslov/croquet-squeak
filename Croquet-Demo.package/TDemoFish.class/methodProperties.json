@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"chooseTarget" : "ar 10/7/2004 16:31",
+		"contents:" : "ar 1/16/2006 21:43",
+		"distanceTo:" : "das 10/31/2005 15:53",
+		"downMaterial" : "ar 1/13/2006 17:25",
+		"downMaterial:" : "ar 1/13/2006 17:25",
+		"eventMask" : "ar 1/27/2006 14:21",
+		"forward:" : "das 10/31/2005 15:08",
+		"initialize" : "ar 2/7/2006 16:57",
+		"move" : "das 11/14/2005 10:48",
+		"normalMaterial" : "ar 1/13/2006 17:25",
+		"normalMaterial:" : "ar 1/13/2006 17:25",
+		"overMaterial" : "ar 1/13/2006 17:25",
+		"overMaterial:" : "ar 1/13/2006 17:25",
+		"pointerDown:" : "das 12/26/2005 20:51",
+		"pointerEnter:" : "das 12/22/2005 00:22",
+		"pointerLeave:" : "ar 1/13/2006 17:24",
+		"pointerUp:" : "das 4/3/2006 19:13",
+		"speed" : "ar 10/13/2004 11:35",
+		"speed:" : "ar 10/13/2004 11:35",
+		"target" : "ar 10/13/2004 11:34",
+		"target:" : "das 10/31/2005 15:40",
+		"turn:" : "ar 10/13/2004 11:30" } }

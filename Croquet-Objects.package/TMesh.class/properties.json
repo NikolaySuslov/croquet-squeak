@@ -1,0 +1,30 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 12:47",
+	"instvars" : [
+		"materialList",
+		"alias",
+		"faceGroups",
+		"faceBuffers",
+		"vertexBuffer",
+		"normalBuffer",
+		"colorBuffer",
+		"texCoordBuffer",
+		"indexBuffer",
+		"alpha",
+		"opaque",
+		"boundsChanged",
+		"boundSphere",
+		"boundsDepth",
+		"boundMaterial",
+		"mode",
+		"rigidBody" ],
+	"name" : "TMesh",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "TFrame",
+	"type" : "normal" }

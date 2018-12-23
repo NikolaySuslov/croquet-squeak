@@ -1,0 +1,4 @@
+render
+upload
+
+	tform updateAll.

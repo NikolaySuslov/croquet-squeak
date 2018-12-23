@@ -1,0 +1,1 @@
+Represents a blueprint version of data for efficient storage and reconstruction.

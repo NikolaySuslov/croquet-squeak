@@ -1,0 +1,3 @@
+accessing
+selectedNormal
+	^ selection normal

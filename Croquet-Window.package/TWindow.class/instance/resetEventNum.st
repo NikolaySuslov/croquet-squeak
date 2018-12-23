@@ -1,0 +1,3 @@
+private
+resetEventNum
+	eventNum := nil

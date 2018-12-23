@@ -25,6 +25,14 @@ baseline: spec
 				package: 'Croquet-Router'
 					with: [ spec requires: #('Croquet-Kernel') ];
 				package: 'Croquet-Contacts'
-					with: [ spec requires: #('Croquet-Router') ].
+					with: [ spec requires: #('Croquet-Router') ];
+				package: 'Croquet-Copier'
+					with: [ spec requires: #('Croquet-Contacts') ];
+				package: 'Croquet-Objects'
+					with: [ spec requires: #('Croquet-Copier') ];
+				package: 'Croquet-Demo'
+					with: [ spec requires: #('Croquet-Objects') ];
+				package: 'Croquet-Window'
+					with: [ spec requires: #('Croquet-Demo') ].
             spec
-                group: 'default' with: #('3DTransform' 'Croquet-Contacts')]
+                group: 'default' with: #('3DTransform' 'Croquet-Window')]

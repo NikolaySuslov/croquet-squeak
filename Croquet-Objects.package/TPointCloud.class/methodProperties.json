@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clear" : "das 6/26/2006 03:10",
+		"colors:" : "das 6/26/2006 03:22",
+		"initBounds" : "das 6/26/2006 03:12",
+		"initialize" : "das 6/26/2006 03:11",
+		"normalizeDown:" : "das 6/26/2006 03:18",
+		"normalizeUp:" : "das 6/26/2006 03:17",
+		"normals:" : "das 6/26/2006 03:23",
+		"pointSize:" : "das 6/26/2006 03:23",
+		"provideColors" : "das 6/26/2006 03:18",
+		"renderPrimitive:" : "das 6/30/2006 07:39",
+		"sphericalShell:" : "das 6/26/2006 03:20",
+		"sphericalShell:outerRadius:innerRadius:" : "das 6/26/2006 03:19",
+		"vertices:" : "das 6/26/2006 03:23" } }

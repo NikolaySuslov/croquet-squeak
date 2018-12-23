@@ -1,0 +1,32 @@
+{
+	"category" : "Croquet-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 6/8/2006 17:00",
+	"instvars" : [
+		"color",
+		"lightFrames",
+		"portalFrames",
+		"rayFrames",
+		"tframes",
+		"updateFrames",
+		"alphaObjects",
+		"cullBackFaces",
+		"fogOn",
+		"fogStart",
+		"fogEnd",
+		"fogDensity",
+		"ambientSound",
+		"testRays",
+		"savedAlphaObjects",
+		"defaultAvatar",
+		"scriptContext",
+		"defaultMaterial",
+		"defaultLaserColors" ],
+	"name" : "TSpace",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

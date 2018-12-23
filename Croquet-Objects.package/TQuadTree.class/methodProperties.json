@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "das 6/29/2002 16:10",
+		"add:depth:" : "das 2/17/2004 16:08",
+		"addSphere:" : "das 6/22/2002 01:13",
+		"boundSphere" : "das 6/29/2002 14:30",
+		"doForPick:" : "das 2/2/2006 00:17",
+		"globalTransformUpdate" : "das 7/11/2003 11:32",
+		"hasAlpha" : "ar 9/7/2002 14:52",
+		"initialize" : "das 7/31/2006 19:33",
+		"initializeWithCorner:size:depth:" : "sn 2/23/2018 12:44",
+		"initializeWithFrame:" : "ar 1/16/2006 19:19",
+		"initializeWithSpace:frame:" : "das 7/31/2006 19:34",
+		"outBox" : "das 6/29/2002 16:52",
+		"pickFloor:" : "das 2/2/2006 00:21",
+		"quadOn" : "das 12/3/2002 10:09",
+		"quadOn:" : "das 12/3/2002 10:09",
+		"quadPickFloor:location:" : "das 1/2/2003 10:33",
+		"reinstall" : "das 10/20/2004 23:52",
+		"renderAlpha:" : "das 3/12/2004 14:00",
+		"renderFrame:" : "das 7/9/2006 17:51",
+		"renderFrame:parent:root:" : "das 7/7/2006 15:34",
+		"renderTree:root:" : "das 6/7/2006 21:55",
+		"size" : "das 10/20/2004 23:36" } }

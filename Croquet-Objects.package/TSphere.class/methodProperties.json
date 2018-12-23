@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initBounds" : "jcg 6/10/2006 12:16",
+		"initialize" : "das 7/5/2006 14:31",
+		"localPosition" : "jcg 6/10/2006 07:36",
+		"localPosition:" : "jcg 6/10/2006 07:37",
+		"pick:" : "das 9/6/2006 19:51",
+		"radius" : "jcg 6/10/2006 07:37",
+		"radius:" : "jcg 6/10/2006 07:37",
+		"segments" : "jcg 6/10/2006 07:37",
+		"segments:" : "jcg 6/10/2006 07:39",
+		"updateMesh" : "ar 7/22/2006 19:49" } }

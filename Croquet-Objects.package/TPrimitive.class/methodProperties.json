@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"boundSphere" : "das 3/12/2004 13:57",
+		"boundsChanged" : "jcg 6/12/2006 22:25",
+		"colorize:" : "das 6/8/2006 21:05",
+		"copy" : "das 7/10/2002 12:16",
+		"hasAlpha" : "ar 1/16/2006 17:13",
+		"hasOpaque" : "das 6/7/2006 22:21",
+		"initBounds" : "",
+		"initialize" : "ar 1/16/2006 17:12",
+		"material" : "ar 1/16/2006 17:13",
+		"material:" : "jcg 6/12/2006 22:25",
+		"render:" : "das 6/8/2006 17:02",
+		"renderAlpha:" : "das 6/7/2006 22:23",
+		"renderPrimitive:" : "das 3/12/2004 13:57",
+		"texture" : "das 4/18/2006 14:42",
+		"texture:" : "jcg 6/12/2006 22:25",
+		"transparency:" : "jcg 6/12/2006 22:26",
+		"uvAngle" : "das 4/18/2006 14:47",
+		"uvOffset" : "das 4/18/2006 14:47",
+		"uvScale" : "bgf 6/8/2006 17:30" } }

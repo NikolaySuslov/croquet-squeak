@@ -1,0 +1,4 @@
+accessing
+pointer: pntr
+
+	^ nil.

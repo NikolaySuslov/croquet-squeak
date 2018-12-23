@@ -1,0 +1,4 @@
+accessing
+shrinkFit
+
+^ bShrinkFit.

@@ -1,0 +1,4 @@
+render
+forceAlpha
+
+	^ false.

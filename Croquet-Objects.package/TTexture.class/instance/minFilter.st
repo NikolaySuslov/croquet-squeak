@@ -1,0 +1,3 @@
+accessing
+minFilter
+	^ tform minFilter.

@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"delete" : "das 2/9/2005 00:46",
+		"duplicate" : "das 8/3/2006 11:12",
+		"initialize" : "das 3/10/2004 22:16",
+		"initializeWithContents:editPortal:" : "das 8/3/2006 11:04",
+		"intoBox" : "das 8/3/2006 11:14",
+		"keyDown:" : "das 8/5/2006 15:59",
+		"keyStroke:" : "das 8/5/2006 15:59",
+		"moveBox:" : "das 8/18/2006 16:03",
+		"outOfBox" : "das 8/10/2005 11:30",
+		"resetBox" : "das 8/12/2005 18:39",
+		"resizeBox:" : "das 8/3/2006 11:02",
+		"rotateBoxX:" : "das 8/5/2006 15:59",
+		"rotateBoxY:" : "das 8/5/2006 15:59",
+		"rotateBoxZ:" : "das 8/5/2006 15:59",
+		"scale:" : "das 1/25/2005 16:37",
+		"scaleBox:" : "das 8/5/2006 15:59",
+		"selectChild" : "das 8/3/2006 11:02",
+		"selectLeftSibling" : "das 8/3/2006 11:03",
+		"selectParent" : "das 8/3/2006 11:03",
+		"selectRightSibling" : "das 8/3/2006 11:03",
+		"selectedPoint:" : "das 8/3/2006 11:03",
+		"task:" : "das 1/24/2005 00:46" } }

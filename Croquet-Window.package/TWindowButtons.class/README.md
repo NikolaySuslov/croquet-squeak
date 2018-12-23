@@ -1,0 +1,1 @@
+TWindowButtons is a frame that creates and positions the buttons at the top of the window.

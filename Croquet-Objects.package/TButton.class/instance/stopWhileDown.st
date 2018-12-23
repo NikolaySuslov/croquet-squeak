@@ -1,0 +1,4 @@
+stepping
+stopWhileDown
+	
+	stepWhileDown := false.

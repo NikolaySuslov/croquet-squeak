@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentSelection" : "das 1/9/2006 11:39",
+		"focusSelected" : "das 1/8/2006 15:43",
+		"focusSelected:" : "das 1/8/2006 14:50",
+		"initialize" : "das 5/8/2006 07:09",
+		"isOverlay" : "das 5/8/2006 07:09",
+		"isOverlay:" : "das 5/8/2006 07:09",
+		"newSelection" : "ar 1/14/2006 14:33",
+		"pick:" : "das 3/4/2006 23:33",
+		"pointerDown" : "das 3/14/2006 14:50",
+		"pointerDown:" : "das 3/13/2006 20:57",
+		"pointerPick:" : "das 3/26/2006 16:20",
+		"resetSelected:" : "das 4/23/2006 16:31",
+		"resetSelected:task:" : "das 4/23/2006 16:26",
+		"selectedFrame:" : "ar 1/19/2006 10:34",
+		"selectedFrameID" : "das 3/10/2006 18:30",
+		"selectedParent:" : "das 12/13/2005 09:07",
+		"selectedPortal:point:" : "das 12/13/2005 09:08",
+		"selectedTarget:" : "das 1/21/2006 15:22" } }

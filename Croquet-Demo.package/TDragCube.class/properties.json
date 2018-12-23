@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Demo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 4/3/2006 02:33",
+	"instvars" : [
+		"norm",
+		"selectedPoint",
+		"baseColor" ],
+	"name" : "TDragCube",
+	"pools" : [
+		 ],
+	"super" : "TCube",
+	"type" : "normal" }

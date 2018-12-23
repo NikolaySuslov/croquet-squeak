@@ -1,0 +1,4 @@
+accessing
+frameScaleSquared
+
+	^ frameScaleSquared.

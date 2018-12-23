@@ -1,0 +1,24 @@
+{
+	"category" : "Croquet-Demo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"depth",
+		"scale",
+		"vertices",
+		"normals",
+		"surface1",
+		"surface2",
+		"surface3",
+		"surface4",
+		"vIndex",
+		"sIndex",
+		"changed" ],
+	"name" : "TSierpinski",
+	"pools" : [
+		 ],
+	"super" : "TPrimitive",
+	"type" : "normal" }

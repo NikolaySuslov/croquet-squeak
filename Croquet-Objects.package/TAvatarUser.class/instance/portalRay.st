@@ -1,0 +1,4 @@
+accessing
+portalRay
+
+	^ portalRay.

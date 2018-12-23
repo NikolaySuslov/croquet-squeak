@@ -1,0 +1,1 @@
+TWindowFrame is the outside control frame for the TWindow class. 

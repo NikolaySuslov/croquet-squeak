@@ -1,0 +1,1 @@
+The importer is responsible for restoring a binary blueprint created by an exporter.

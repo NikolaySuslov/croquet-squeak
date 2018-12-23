@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"boundsChanged" : "jcg 6/10/2006 23:40",
+		"colorize:" : "jcg 6/8/2006 23:11",
+		"doInside:" : "jcg 6/8/2006 23:12",
+		"extent" : "jcg 6/8/2006 23:12",
+		"extent:" : "jcg 6/8/2006 23:15",
+		"extentX:y:" : "jcg 6/8/2006 23:15",
+		"frameBox" : "jcg 6/8/2006 23:16",
+		"frameOn" : "jcg 6/8/2006 23:16",
+		"frameOn:" : "jcg 6/8/2006 23:16",
+		"frontNorm" : "jcg 6/8/2006 23:16",
+		"hiliteSection" : "bgf 7/9/2006 14:14",
+		"hiliteSection:" : "bgf 7/9/2006 14:14",
+		"initBounds" : "jcg 6/8/2006 23:09",
+		"initialize" : "bgf 7/9/2006 14:14",
+		"isSolid" : "jcg 6/8/2006 23:21",
+		"materialHilite:" : "jcg 6/9/2006 06:14",
+		"normalColor:highlightColor:" : "jcg 6/9/2006 06:09",
+		"pick:" : "das 9/3/2006 12:16",
+		"radius" : "jcg 6/8/2006 23:21",
+		"radius:" : "jcg 6/8/2006 23:21",
+		"scale:" : "jcg 6/8/2006 23:21",
+		"segments" : "jcg 6/8/2006 23:22",
+		"segments:" : "jcg 6/8/2006 23:22",
+		"updateMesh" : "das 7/4/2006 16:54" } }

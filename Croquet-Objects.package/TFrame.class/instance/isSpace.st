@@ -1,0 +1,4 @@
+testing
+isSpace
+
+	^ false.
