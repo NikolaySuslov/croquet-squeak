@@ -1,0 +1,1 @@
+I encode and decode stuff for TMessageData.

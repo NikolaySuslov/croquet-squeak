@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addRouter:id:" : "ar 1/4/2006 21:23",
+		"autoCreate" : "NiccoKunzmann 6/2/2014 16:47",
+		"autoCreate:" : "ar 1/4/2006 16:22",
+		"autoCreateNewRouter" : "ar 1/5/2006 17:47",
+		"defaultRouterClass" : "ar 1/5/2006 17:47",
+		"defaultRouterClass:" : "ar 1/5/2006 17:47",
+		"destroy" : "NiccoKunzmann 6/3/2014 18:14",
+		"dispatchConnection:sessionID:" : "ar 1/4/2006 22:24",
+		"initialize" : "ar 1/4/2006 16:21",
+		"routers" : "ar 1/4/2006 16:23",
+		"routers:" : "ar 1/4/2006 16:23" } }

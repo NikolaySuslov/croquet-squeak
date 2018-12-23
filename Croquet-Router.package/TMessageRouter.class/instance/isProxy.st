@@ -1,0 +1,3 @@
+testing
+isProxy
+	^ upstream notNil

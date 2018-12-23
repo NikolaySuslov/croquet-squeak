@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"time",
+		"msgId",
+		"sid" ],
+	"name" : "TMessageSend",
+	"pools" : [
+		 ],
+	"super" : "MessageSend",
+	"type" : "normal" }

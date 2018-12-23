@@ -1,0 +1,25 @@
+{
+	"category" : "Croquet-Router-Controller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"connection",
+		"connections",
+		"sessionID",
+		"sentMessages",
+		"sentCounter",
+		"latencyStats",
+		"messageStats",
+		"cacheManager",
+		"url",
+		"downstream",
+		"isServer",
+		"heartbeat" ],
+	"name" : "TRemoteController",
+	"pools" : [
+		 ],
+	"super" : "TIslandController",
+	"type" : "normal" }

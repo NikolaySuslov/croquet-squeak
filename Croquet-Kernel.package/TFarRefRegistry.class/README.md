@@ -1,0 +1,1 @@
+A registry for managing TFarRefs

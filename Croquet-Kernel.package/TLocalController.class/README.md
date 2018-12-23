@@ -1,0 +1,1 @@
+An entirely non-replicated, loop-back kind of controller, requiring no network connectivity.

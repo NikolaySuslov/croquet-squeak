@@ -1,0 +1,28 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"PoolBits",
+		"PoolMask",
+		"PoolWords",
+		"TAP1",
+		"TAP2",
+		"TAP3",
+		"TAP4",
+		"TAP5",
+		"TwistTable" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pool",
+		"entropy",
+		"rotate",
+		"poolIndex",
+		"lastTick",
+		"lastDelta" ],
+	"name" : "TCryptoRandom",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

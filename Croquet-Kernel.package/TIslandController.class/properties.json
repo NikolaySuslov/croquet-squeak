@@ -1,0 +1,25 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AccessProtect",
+		"Registry" ],
+	"commentStamp" : "mtf 7/21/2010 15:22",
+	"instvars" : [
+		"status",
+		"log",
+		"island",
+		"eventQueue",
+		"eventLoop",
+		"networkQueue",
+		"facets",
+		"mutex",
+		"senderID",
+		"gcData",
+		"messageRecorder" ],
+	"name" : "TIslandController",
+	"pools" : [
+		 ],
+	"super" : "TObject",
+	"type" : "normal" }

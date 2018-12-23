@@ -1,0 +1,4 @@
+accessing
+allPromisesEmpty
+
+	^ promises isEmpty

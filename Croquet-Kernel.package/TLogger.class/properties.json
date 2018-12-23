@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		"mutex" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TLogger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+Placeholder class for future expansion of the cache/management subsystems. Currently it is kinda weak and we need something more structured along the lines of the OGRE resourece managers

@@ -1,0 +1,3 @@
+recording
+shouldntRecord
+	isRecording := nil

@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TResourceManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

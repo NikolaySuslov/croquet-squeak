@@ -1,0 +1,3 @@
+accessing
+archiveVersionID
+	^TSnapshotWriter archiveVersionID

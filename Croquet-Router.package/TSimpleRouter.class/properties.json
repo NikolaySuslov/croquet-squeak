@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Router-Simple",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"passwords",
+		"login" ],
+	"name" : "TSimpleRouter",
+	"pools" : [
+		 ],
+	"super" : "TMessageRouter",
+	"type" : "normal" }

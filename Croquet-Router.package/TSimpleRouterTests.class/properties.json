@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Router-Simple",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TSimpleRouterTests",
+	"pools" : [
+		 ],
+	"super" : "TMessageRouterTests",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"changePortFrom:" : "ar 1/4/2006 16:12",
+		"default" : "ar 1/4/2006 16:12",
+		"reset" : "ar 1/4/2006 16:12",
+		"startOrStopFrom:" : "ar 1/4/2006 16:12" },
+	"instance" : {
+		"acceptConnectionFrom:" : "ar 3/18/2006 02:13",
+		"address" : "das 1/6/2006 15:53",
+		"configureServer" : "jrd 5/11/2009 21:27",
+		"destroy" : "das 1/26/2006 20:40",
+		"dispatchConnection:sessionID:" : "ar 1/4/2006 22:13",
+		"futureAcceptConnectionFrom:" : "jrd 5/12/2009 01:24",
+		"initialize" : "ar 1/4/2006 16:17",
+		"listenOn:" : "ar 1/4/2006 16:12",
+		"listenOn:interface:" : "ar 1/4/2006 16:12",
+		"listenOn:interface:backlogSize:" : "ar 1/4/2006 16:12",
+		"logError:" : "jrd 5/6/2010 00:34",
+		"port" : "ar 1/4/2006 17:12",
+		"runServer" : "NiccoKunzmann 7/6/2014 19:04",
+		"startServer" : "sn 2/25/2018 16:19",
+		"stopServer" : "ar 1/4/2006 16:12" } }

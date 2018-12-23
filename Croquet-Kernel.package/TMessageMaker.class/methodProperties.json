@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"=" : "das 9/7/2005 10:10",
+		"basicAt:" : "das 9/7/2005 10:08",
+		"basicAt:put:" : "das 9/7/2005 10:09",
+		"basicSize" : "das 9/7/2005 10:10",
+		"defaultLabelForInspector" : "das 9/7/2005 10:09",
+		"doesNotUnderstand:" : "ar 9/16/2005 14:48",
+		"hash" : "das 9/7/2005 10:09",
+		"inspectorClass" : "das 9/7/2005 10:09",
+		"instVarAt:" : "das 9/7/2005 10:09",
+		"instVarAt:put:" : "das 9/7/2005 10:09",
+		"isKindOf:" : "das 9/7/2005 10:09",
+		"isMemberOf:" : "das 9/7/2005 10:09",
+		"isMorph" : "sn 2/23/2018 13:41",
+		"isText" : "das 9/7/2005 10:09",
+		"printOn:" : "das 9/7/2005 10:10",
+		"printString" : "das 9/7/2005 10:10",
+		"printStringLimitedTo:" : "das 9/7/2005 10:10",
+		"setTarget:" : "das 9/6/2005 12:29",
+		"size" : "ar 9/16/2005 14:49" } }

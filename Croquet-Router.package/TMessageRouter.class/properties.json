@@ -1,0 +1,23 @@
+{
+	"category" : "Croquet-Router-Common",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"logStream",
+		"clients",
+		"eventQueue",
+		"eventLoop",
+		"facets",
+		"lastTick",
+		"timeStamp",
+		"autoStop",
+		"shouldLog",
+		"upstream" ],
+	"name" : "TMessageRouter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

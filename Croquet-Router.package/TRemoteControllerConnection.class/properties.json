@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Router-Controller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"status",
+		"controller",
+		"networkQueue",
+		"promises",
+		"backDoor",
+		"isServer",
+		"heartbeat" ],
+	"name" : "TRemoteControllerConnection",
+	"pools" : [
+		 ],
+	"super" : "TMessageRelay",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Croquet-Router-Common",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"log",
+		"dispatcher",
+		"router",
+		"controller",
+		"participant" ],
+	"name" : "TMessageRouterTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

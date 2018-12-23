@@ -1,0 +1,1 @@
+I am a serializable name for an object reference.

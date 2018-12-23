@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"howToPassAsArgument" : "das 9/7/2005 16:05" },
+	"instance" : {
+		"<=" : "mtf 7/21/2010 13:21",
+		"=" : "mtf 7/21/2010 13:11",
+		"arguments" : "das 9/6/2005 11:12",
+		"arguments:" : "das 9/6/2005 16:51",
+		"asByteArray" : "das 9/6/2005 18:12",
+		"hash" : "mtf 7/21/2010 13:18",
+		"id" : "ar 11/8/2005 17:04",
+		"id:" : "ar 11/8/2005 17:04",
+		"initialize" : "ar 10/18/2005 17:02",
+		"readFrom:" : "ar 1/5/2006 13:04",
+		"receiver" : "das 9/6/2005 11:12",
+		"receiver:" : "das 9/6/2005 16:51",
+		"selector" : "das 9/6/2005 11:12",
+		"selector:" : "das 9/6/2005 16:51",
+		"sender" : "das 11/4/2005 11:09",
+		"sender:" : "das 11/4/2005 11:10",
+		"sid" : "das 9/6/2005 11:12",
+		"sid:" : "das 9/6/2005 11:12",
+		"time" : "das 9/6/2005 11:12",
+		"time:" : "ar 10/18/2005 17:02",
+		"writeOn:" : "das 11/4/2005 11:15" } }

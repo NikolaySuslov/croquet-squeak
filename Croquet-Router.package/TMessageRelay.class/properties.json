@@ -1,0 +1,31 @@
+{
+	"category" : "Croquet-Router-Common",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LargePackets",
+		"SmallPackets" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"address",
+		"port",
+		"socket",
+		"buffer",
+		"eventQueue",
+		"outQueue",
+		"reader",
+		"writer",
+		"recvCypher",
+		"sendCypher",
+		"facets",
+		"recvCount",
+		"sendCount",
+		"recvAmount",
+		"sendAmount",
+		"isRecording",
+		"messageRecorder" ],
+	"name" : "TMessageRelay",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

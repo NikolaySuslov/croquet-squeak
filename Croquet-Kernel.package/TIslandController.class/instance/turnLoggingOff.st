@@ -1,0 +1,4 @@
+initialize
+turnLoggingOff
+
+	log := nil

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"defaultPort" : "ar 1/4/2006 22:51",
+		"loginFacet" : "ar 8/31/2006 19:35" },
+	"instance" : {
+		"challenge:from:" : "ar 1/28/2006 21:23",
+		"login:password:" : "das 1/6/2006 15:10",
+		"password" : "ar 1/4/2006 14:34",
+		"password:" : "ar 1/4/2006 14:34",
+		"recvFacets:from:" : "ar 8/31/2006 20:00" } }

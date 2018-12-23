@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"eventMap",
+		"scripts",
+		"properties" ],
+	"name" : "TObjectProperties",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

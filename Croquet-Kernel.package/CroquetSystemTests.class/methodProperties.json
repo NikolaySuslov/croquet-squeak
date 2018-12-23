@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"isPackageCategoryCovered:" : "ar 4/11/2006 13:01",
+		"testCompiledMethodsAreNew" : "ar 4/11/2006 12:10",
+		"testCompiledMethodsHaveMethodClass" : "ar 4/11/2006 12:10",
+		"testCompiledMethodsHaveSelector" : "ar 4/11/2006 12:10",
+		"testNoLooseExtensionMethods" : "ar 4/11/2006 12:56",
+		"testNoLooseSystemCategories" : "ar 4/11/2006 12:55" } }

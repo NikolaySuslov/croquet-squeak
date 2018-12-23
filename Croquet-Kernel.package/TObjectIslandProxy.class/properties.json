@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TObjectIslandProxy",
+	"pools" : [
+		 ],
+	"super" : "TObjectProxy",
+	"type" : "bytes" }

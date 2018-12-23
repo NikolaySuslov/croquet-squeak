@@ -1,0 +1,1 @@
+I am a message queue sorting elements primarily by their time values and secondarily by their sequence number.

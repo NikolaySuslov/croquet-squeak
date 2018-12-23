@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Router-Controller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"password",
+		"loginPromise" ],
+	"name" : "TSessionController",
+	"pools" : [
+		 ],
+	"super" : "TRemoteController",
+	"type" : "normal" }

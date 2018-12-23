@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"myTarget" ],
+	"name" : "TMessageMaker",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 7/23/2010 10:50",
+	"instvars" : [
+		"semaphore",
+		"owner" ],
+	"name" : "TMutex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

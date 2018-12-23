@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ShouldLog" ],
+	"commentStamp" : "jrd 9/16/2009 21:29",
+	"instvars" : [
+		"controller",
+		"id",
+		"messageQueue",
+		"time",
+		"sequence",
+		"nameMap",
+		"mutex" ],
+	"name" : "TIsland",
+	"pools" : [
+		 ],
+	"super" : "Island",
+	"type" : "normal" }

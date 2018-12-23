@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Router-Common",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"Port" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"socket",
+		"server",
+		"mutex" ],
+	"name" : "TConnectionDispatcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

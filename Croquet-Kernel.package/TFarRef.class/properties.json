@@ -1,0 +1,18 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AllFarRefs" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"myIsland",
+		"myValue",
+		"myName",
+		"myController",
+		"destroyed" ],
+	"name" : "TFarRef",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

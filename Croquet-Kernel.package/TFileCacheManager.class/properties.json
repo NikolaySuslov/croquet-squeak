@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mutex",
+		"location" ],
+	"name" : "TFileCacheManager",
+	"pools" : [
+		 ],
+	"super" : "TResourceManager",
+	"type" : "normal" }

@@ -1,0 +1,2 @@
+printing
+logControllerTMessage: msg

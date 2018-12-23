@@ -10,5 +10,8 @@ OrderedDictionary {
 	'Logging.package' : #SquotCypressCodeSerializer,
 	'Script-Preload.package' : #SquotCypressCodeSerializer,
 	'Scripting.package' : #SquotCypressCodeSerializer,
-	'Islands.package' : #SquotCypressCodeSerializer
+	'Islands.package' : #SquotCypressCodeSerializer,
+	'Croquet-Misc.package' : #SquotCypressCodeSerializer,
+	'Croquet-Kernel.package' : #SquotCypressCodeSerializer,
+	'Croquet-Router.package' : #SquotCypressCodeSerializer
 }

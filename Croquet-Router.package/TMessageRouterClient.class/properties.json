@@ -1,0 +1,22 @@
+{
+	"category" : "Croquet-Router-Common",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"router",
+		"recvFacet",
+		"syncFacets",
+		"serveFacet",
+		"tickFacet",
+		"listFacet",
+		"tickPeriod",
+		"heartbeat",
+		"tickMsg" ],
+	"name" : "TMessageRouterClient",
+	"pools" : [
+		 ],
+	"super" : "TMessageRelay",
+	"type" : "normal" }

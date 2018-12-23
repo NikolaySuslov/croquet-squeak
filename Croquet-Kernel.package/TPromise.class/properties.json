@@ -1,0 +1,22 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"myIsland",
+		"myName",
+		"myScripts",
+		"resolved",
+		"broken",
+		"result",
+		"resolver",
+		"resolvers",
+		"handlers" ],
+	"name" : "TPromise",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

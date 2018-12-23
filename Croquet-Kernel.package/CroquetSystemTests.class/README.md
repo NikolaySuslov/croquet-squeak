@@ -1,0 +1,1 @@
+A test suite to ensure some system-wide properties for Croquet.

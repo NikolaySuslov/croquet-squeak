@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"id" : "ar 11/8/2005 17:01",
+		"id:" : "ar 11/8/2005 17:01",
+		"isResolved" : "ar 9/16/2005 13:50",
+		"island" : "ar 11/8/2005 16:56",
+		"island:" : "ar 11/8/2005 16:56",
+		"myScripts" : "ar 9/8/2005 12:06",
+		"myScripts:" : "ar 9/8/2005 12:05",
+		"onResolved:" : "NiccoKunzmann 6/2/2014 17:13",
+		"register" : "ar 11/8/2005 17:01",
+		"resolve:" : "mtf 7/23/2010 14:55",
+		"result" : "ar 9/14/2005 17:59",
+		"unregister" : "mtf 7/23/2010 14:57",
+		"value" : "ar 11/8/2005 18:06",
+		"wait" : "das 1/6/2006 15:12",
+		"waitTimeoutMSecs:" : "das 1/6/2006 15:12",
+		"whenComplete:" : "mtf 7/23/2010 14:57" } }

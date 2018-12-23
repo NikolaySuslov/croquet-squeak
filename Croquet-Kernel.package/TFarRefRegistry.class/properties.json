@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"array",
+		"tally",
+		"flag" ],
+	"name" : "TFarRefRegistry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

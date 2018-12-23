@@ -1,0 +1,3 @@
+server
+newMessageRouterClient
+	^TMessageRouterClient new

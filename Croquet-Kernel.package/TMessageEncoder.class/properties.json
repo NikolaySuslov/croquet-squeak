@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"island" ],
+	"name" : "TMessageEncoder",
+	"pools" : [
+		 ],
+	"super" : "ReferenceStream",
+	"type" : "normal" }

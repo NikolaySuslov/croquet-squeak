@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TObjectProxy",
+	"pools" : [
+		 ],
+	"super" : "ByteArray",
+	"type" : "bytes" }

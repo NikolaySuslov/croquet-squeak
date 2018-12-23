@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Router-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"routers",
+		"autoCreate",
+		"defaultRouterClass" ],
+	"name" : "TExampleDispatcher",
+	"pools" : [
+		 ],
+	"super" : "TConnectionDispatcher",
+	"type" : "normal" }

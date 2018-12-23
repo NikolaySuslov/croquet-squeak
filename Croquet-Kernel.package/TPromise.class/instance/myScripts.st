@@ -1,0 +1,3 @@
+accessing
+myScripts
+	^myScripts ifNil:[#()]

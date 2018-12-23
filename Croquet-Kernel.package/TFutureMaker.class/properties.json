@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"deltaMSecs" ],
+	"name" : "TFutureMaker",
+	"pools" : [
+		 ],
+	"super" : "TMessageMaker",
+	"type" : "normal" }

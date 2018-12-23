@@ -1,0 +1,1 @@
+I am a Croquet message with associated time value, message id, and sequence number.

@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Router-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"routers",
+		"autoCreate",
+		"defaultRouterClass",
+		"logStream" ],
+	"name" : "TSessionDispatcher",
+	"pools" : [
+		 ],
+	"super" : "TConnectionDispatcher",
+	"type" : "normal" }

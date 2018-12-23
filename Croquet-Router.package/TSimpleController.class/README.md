@@ -1,0 +1,1 @@
+I am a simplified controller making use of the simplified router.

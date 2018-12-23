@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "ar 9/17/2005 20:33",
+		"addAll:" : "ar 9/17/2005 20:34",
+		"allForIsland:do:" : "jrd 12/22/2009 19:16",
+		"asArray" : "ar 9/17/2005 20:32",
+		"atNewIndex:put:" : "ar 9/17/2005 20:31",
+		"do:" : "ar 9/17/2005 20:37",
+		"findElementOrFlag:" : "ar 9/17/2005 20:30",
+		"fullCheck" : "ar 9/17/2005 20:32",
+		"grow" : "ar 9/17/2005 20:31",
+		"growSize" : "ar 9/17/2005 20:30",
+		"growTo:" : "jrd 12/29/2009 21:35",
+		"initialize" : "ar 9/17/2005 20:28",
+		"rehash" : "ar 9/17/2005 20:31",
+		"removeAllForIsland:" : "jrd 12/29/2009 22:54",
+		"scanFor:" : "jrd 12/29/2009 22:48",
+		"shrink" : "ar 9/17/2005 20:31" } }

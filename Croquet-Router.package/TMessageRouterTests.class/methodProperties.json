@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"isAbstract" : "ar 1/4/2006 21:58" },
+	"instance" : {
+		"adminLogin" : "ar 1/4/2006 21:53",
+		"adminPassword" : "ar 1/28/2006 22:19",
+		"anonLogin" : "ar 1/4/2006 21:53",
+		"anonPassword" : "ar 1/28/2006 22:20",
+		"guestLogin" : "ar 1/4/2006 21:53",
+		"guestPassword" : "ar 1/28/2006 22:20",
+		"loginAdmin:" : "ar 8/31/2006 20:00",
+		"loginGuest:" : "das 1/6/2006 14:57",
+		"loginMember:" : "das 1/6/2006 14:56",
+		"memberLogin" : "ar 1/4/2006 21:53",
+		"memberPassword" : "ar 1/28/2006 22:20",
+		"newController" : "ar 1/4/2006 21:55",
+		"sessionID" : "ar 1/5/2006 15:37",
+		"setUp" : "ar 4/13/2006 14:51",
+		"tearDown" : "ar 4/11/2006 18:33",
+		"testBackdoorLatency" : "bf 12/20/2018 16:59",
+		"testMasterStage1" : "jrd 5/14/2009 14:43",
+		"testMasterStage2" : "ar 1/4/2006 21:10",
+		"testMasterStage3" : "das 1/6/2006 14:58",
+		"testParticipantStage1" : "jrd 5/14/2009 14:46",
+		"testParticipantStage2" : "ar 4/11/2006 17:20",
+		"testReplicateSends" : "bf 12/20/2018 16:59",
+		"testRoundtripLatency" : "bf 12/20/2018 16:59" } }

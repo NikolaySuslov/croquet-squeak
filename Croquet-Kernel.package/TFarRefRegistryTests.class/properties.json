@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TFarRefRegistryTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

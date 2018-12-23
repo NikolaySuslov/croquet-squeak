@@ -1,0 +1,1 @@
+I represent some optional state for TObjects which is allocated lazily if needed.

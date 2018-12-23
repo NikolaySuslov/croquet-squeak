@@ -1,0 +1,19 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"lastTick",
+		"timeStamp",
+		"heartbeat",
+		"tickPeriod",
+		"tickMsg",
+		"connectedToControllers" ],
+	"name" : "TLocalController",
+	"pools" : [
+		 ],
+	"super" : "TIslandController",
+	"type" : "normal" }

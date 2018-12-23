@@ -1,0 +1,1 @@
+(c) 2006 Qwaq Inc. An example controller using no authorization whatsoever. Login name and password are both ignored.

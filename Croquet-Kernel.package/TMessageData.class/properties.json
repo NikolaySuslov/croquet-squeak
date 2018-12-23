@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Kernel-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"receiver",
+		"selector",
+		"arguments",
+		"sender",
+		"msgId",
+		"time",
+		"sid" ],
+	"name" : "TMessageData",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

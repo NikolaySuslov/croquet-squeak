@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TARC4DropNCypher",
+	"pools" : [
+		 ],
+	"super" : "TARC4Cypher",
+	"type" : "normal" }

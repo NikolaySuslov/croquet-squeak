@@ -1,0 +1,4 @@
+initialize
+turnLoggingOn
+
+	log := true

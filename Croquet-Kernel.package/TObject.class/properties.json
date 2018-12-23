@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"myProperties",
+		"myCobaltObjectProperties" ],
+	"name" : "TObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

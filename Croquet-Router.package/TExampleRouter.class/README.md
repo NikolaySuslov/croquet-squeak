@@ -1,0 +1,1 @@
+(c) 2006 Qwaq Inc. An example router doing no authentication whatsoever and providing everyone with full access. Nice for testing but not much else.

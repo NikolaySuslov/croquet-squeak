@@ -1,0 +1,1 @@
+A TMutexSet aquires all of the mutexes inside it.

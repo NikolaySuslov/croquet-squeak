@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Kernel-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CroquetSlooooooowSystemTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

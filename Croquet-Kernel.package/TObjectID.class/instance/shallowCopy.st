@@ -1,0 +1,3 @@
+copying
+shallowCopy
+	^super shallowCopy

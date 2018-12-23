@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Router-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TRouterConfig",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

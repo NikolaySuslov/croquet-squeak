@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"newController" : "ar 1/4/2006 21:59",
+		"setUp" : "jrd 5/11/2009 18:28",
+		"testDispatcherAutoCreateFail" : "bgf 5/14/2006 14:03",
+		"testDispatcherAutoCreateSuccess" : "bgf 5/14/2006 14:03",
+		"testMasterStage1" : "ar 1/5/2006 16:34" } }

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addRouter:id:" : "jrd 5/24/2008 14:37",
+		"autoCreate" : "jrd 5/24/2008 14:38",
+		"autoCreate:" : "jrd 5/24/2008 14:38",
+		"autoCreateNewRouterFor:sessionID:" : "jrd 5/13/2009 01:15",
+		"defaultRouterClass" : "jrd 5/24/2008 14:38",
+		"defaultRouterClass:" : "jrd 5/24/2008 14:38",
+		"destroy" : "jrd 5/24/2008 14:38",
+		"dispatchConnection:sessionID:" : "jrd 5/24/2008 14:39",
+		"errorNoNewRouterFor:sessionID:" : "jrd 5/24/2008 14:39",
+		"futureAcceptConnectionFrom:" : "jrd 5/24/2008 14:40",
+		"initialize" : "jrd 5/13/2009 01:12",
+		"logError:" : "jrd 4/8/2009 01:01",
+		"logMessage:" : "jrd 4/8/2009 01:03",
+		"logStream" : "jrd 4/8/2009 01:03",
+		"logStream:" : "jrd 4/8/2009 01:03",
+		"routers" : "jrd 5/24/2008 14:38",
+		"routers:" : "jrd 5/24/2008 14:38" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Router-Common",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"facet",
+		"data",
+		"complete" ],
+	"name" : "TDatagram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

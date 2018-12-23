@@ -1,0 +1,3 @@
+setup
+newController
+	^self subclassResponsibility

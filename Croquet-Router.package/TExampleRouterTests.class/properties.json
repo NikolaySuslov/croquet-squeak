@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Router-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TExampleRouterTests",
+	"pools" : [
+		 ],
+	"super" : "TMessageRouterTests",
+	"type" : "normal" }

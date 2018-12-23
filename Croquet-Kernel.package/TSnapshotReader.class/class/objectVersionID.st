@@ -1,0 +1,3 @@
+accessing
+objectVersionID
+	^TSnapshotWriter objectVersionID
