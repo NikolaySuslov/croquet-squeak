@@ -1,0 +1,16 @@
+{
+	"category" : "HedgeHacks-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"spreadSheet",
+		"row",
+		"column" ],
+	"name" : "SpreadSheetField",
+	"pools" : [
+		 ],
+	"super" : "TextMorph",
+	"type" : "normal" }

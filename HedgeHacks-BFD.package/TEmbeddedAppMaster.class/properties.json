@@ -1,0 +1,14 @@
+{
+	"category" : "HedgeHacks-BFD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TEmbeddedAppMaster",
+	"pools" : [
+		 ],
+	"super" : "BFDParticipant",
+	"type" : "normal" }

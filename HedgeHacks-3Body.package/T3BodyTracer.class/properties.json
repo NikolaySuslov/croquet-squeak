@@ -1,0 +1,16 @@
+{
+	"category" : "HedgeHacks-3Body",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"path",
+		"maxSize",
+		"bounds" ],
+	"name" : "T3BodyTracer",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

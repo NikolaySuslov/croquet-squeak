@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"initialize" : "ar 9/6/2002 21:53" },
+	"instance" : {
+		"alphaSlider" : "ar 9/6/2002 22:44",
+		"buildAlphaSlider" : "ar 9/6/2002 21:22",
+		"buildCloseButton" : "ar 9/6/2002 21:51",
+		"buildDoItButton" : "ar 10/26/2002 19:50",
+		"buildExpandButton" : "ar 9/6/2002 21:51",
+		"buildWindowButton" : "ar 9/6/2002 21:50",
+		"buildWindowButton:" : "ar 9/6/2002 21:55",
+		"buildWindowLabel" : "ar 9/6/2002 21:22",
+		"closeButton" : "ar 9/6/2002 21:30",
+		"collapse" : "ar 10/25/2002 21:00",
+		"collapseButton" : "ar 9/6/2002 21:30",
+		"doItButton" : "ar 10/26/2002 19:52",
+		"expand" : "ar 10/25/2002 21:00",
+		"expandButton" : "ar 9/6/2002 21:30",
+		"initialize" : "ar 10/26/2002 19:42",
+		"label" : "ar 9/6/2002 22:03",
+		"label:" : "ar 9/6/2002 22:03",
+		"labelColor" : "ar 10/26/2002 19:31",
+		"labelColor:" : "ar 10/26/2002 19:31",
+		"makeLabelButton" : "ar 10/26/2002 19:43",
+		"mouseDown:from:" : "ar 9/6/2002 21:55",
+		"mouseUp:from:" : "ar 9/6/2002 22:43",
+		"window:" : "ar 9/6/2002 21:21",
+		"windowColor:" : "ar 10/26/2002 19:50" } }

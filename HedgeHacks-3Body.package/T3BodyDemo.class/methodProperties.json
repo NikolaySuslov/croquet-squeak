@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"eventMask" : "ar 1/27/2006 14:21",
+		"initialize" : "das 1/16/2006 08:29",
+		"keyDown:" : "ar 1/12/2006 19:17",
+		"keyStroke:" : "ar 1/12/2006 19:17",
+		"reset" : "das 11/19/2003 14:50",
+		"speed:" : "das 11/19/2003 14:23",
+		"step" : "ar 1/12/2006 19:58" } }

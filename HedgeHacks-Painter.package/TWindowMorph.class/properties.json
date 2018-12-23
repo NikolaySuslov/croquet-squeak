@@ -1,0 +1,17 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model",
+		"frame",
+		"content",
+		"windowColor" ],
+	"name" : "TWindowMorph",
+	"pools" : [
+		 ],
+	"super" : "TeaBackingMorph",
+	"type" : "normal" }

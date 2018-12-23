@@ -1,0 +1,25 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AliceForm",
+		"BackButtonForm",
+		"ProjectsForm",
+		"SnapshotForm",
+		"ToolFormLibrary",
+		"ToolsForm" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"scroller",
+		"scrollValue",
+		"targetHeight",
+		"focus",
+		"outer",
+		"snapshots",
+		"tools" ],
+	"name" : "TZoomNavigatorMorph",
+	"pools" : [
+		 ],
+	"super" : "TeaBackingMorph",
+	"type" : "normal" }

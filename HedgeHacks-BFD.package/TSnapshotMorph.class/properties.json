@@ -1,0 +1,15 @@
+{
+	"category" : "HedgeHacks-BFD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"snapshot",
+		"thumbnail" ],
+	"name" : "TSnapshotMorph",
+	"pools" : [
+		 ],
+	"super" : "SketchMorph",
+	"type" : "normal" }

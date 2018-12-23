@@ -1,0 +1,3 @@
+initialize
+buildExpandButton
+	^self buildWindowButton: ExpandButtonForm

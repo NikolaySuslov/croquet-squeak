@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"make3DMeshFrom:style:" : "ar 3/8/2006 19:33" },
+	"instance" : {
+		"build3DObject" : "daf 11/7/2004 16:10",
+		"build3DObject:" : "ar 3/8/2006 19:38",
+		"createPolygons" : "ar 1/11/2006 14:34",
+		"mirror:twoSided:" : "ar 3/8/2006 20:09",
+		"quadEdgeClass" : "ar 1/11/2006 14:33",
+		"surface" : "ar 3/8/2006 19:38",
+		"triangulate" : "ar 5/22/2001 13:29" } }

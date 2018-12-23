@@ -1,0 +1,3 @@
+initialize
+removeAll
+	scroller removeAllMorphs

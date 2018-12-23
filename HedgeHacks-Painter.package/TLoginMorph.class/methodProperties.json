@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buttonColor" : "ar 12/26/2002 16:06",
+		"buttonNamed:action:color:help:" : "ar 12/26/2002 16:22",
+		"cancelButton" : "ar 12/26/2002 16:06",
+		"doCancel" : "ar 12/26/2002 16:05",
+		"doOK" : "ar 12/26/2002 16:21",
+		"initialize" : "ar 12/26/2002 16:32",
+		"myFont" : "ar 12/26/2002 16:06",
+		"name:actionBlock:cancelBlock:" : "ar 12/26/2002 16:05",
+		"okButton" : "ar 12/26/2002 16:06",
+		"openInWorld:" : "ar 12/26/2002 16:05",
+		"rebuild" : "ar 12/26/2002 16:20" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "HedgeHacks-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mouseOver",
+		"passEvents",
+		"targetExtent",
+		"stepping",
+		"rate" ],
+	"name" : "TTextureHackForm",
+	"pools" : [
+		 ],
+	"super" : "TTexture",
+	"type" : "normal" }

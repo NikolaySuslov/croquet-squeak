@@ -1,0 +1,22 @@
+{
+	"category" : "HedgeHacks-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numRows",
+		"numColumns",
+		"rows",
+		"colWidth",
+		"rowHeight",
+		"top",
+		"left",
+		"selectedField",
+		"texture" ],
+	"name" : "SpreadSheet",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

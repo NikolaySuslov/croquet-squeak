@@ -1,0 +1,17 @@
+{
+	"category" : "HedgeHacks-3Body",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 10/10/2004 09:56",
+	"instvars" : [
+		"radius",
+		"radiusSquared",
+		"mass",
+		"hard" ],
+	"name" : "T3BodyAttractor",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

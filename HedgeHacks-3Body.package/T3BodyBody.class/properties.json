@@ -1,0 +1,19 @@
+{
+	"category" : "HedgeHacks-3Body",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"velocity",
+		"tracer",
+		"attractors",
+		"start",
+		"stepRemainder",
+		"speed" ],
+	"name" : "T3BodyBody",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

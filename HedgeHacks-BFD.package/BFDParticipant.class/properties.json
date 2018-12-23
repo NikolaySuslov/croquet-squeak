@@ -1,0 +1,15 @@
+{
+	"category" : "HedgeHacks-BFD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"dock",
+		"windowData" ],
+	"name" : "BFDParticipant",
+	"pools" : [
+		 ],
+	"super" : "CroquetParticipant",
+	"type" : "normal" }

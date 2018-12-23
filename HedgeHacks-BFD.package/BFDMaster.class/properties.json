@@ -1,0 +1,14 @@
+{
+	"category" : "HedgeHacks-BFD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contactBroadcaster" ],
+	"name" : "BFDMaster",
+	"pools" : [
+		 ],
+	"super" : "BFDParticipant",
+	"type" : "normal" }

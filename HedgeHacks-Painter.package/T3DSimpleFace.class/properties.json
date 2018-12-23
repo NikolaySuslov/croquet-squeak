@@ -1,0 +1,14 @@
+{
+	"category" : "HedgeHacks-Painter-T3D",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertices" ],
+	"name" : "T3DSimpleFace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

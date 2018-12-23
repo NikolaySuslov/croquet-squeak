@@ -1,0 +1,16 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"myEventMap",
+		"myScripts",
+		"window" ],
+	"name" : "TModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

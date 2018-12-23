@@ -1,0 +1,3 @@
+initialize
+buildCloseButton
+	^self buildWindowButton: CloseButtonForm

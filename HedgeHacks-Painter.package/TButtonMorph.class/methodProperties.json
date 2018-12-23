@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beBordered" : "ar 10/15/2002 22:55",
+		"contents" : "ar 10/26/2002 19:30",
+		"contents:" : "ar 10/26/2002 19:30",
+		"handlesMouseDown:" : "ar 10/15/2002 18:16",
+		"handlesMouseOver:" : "ar 10/15/2002 18:18",
+		"handlesMouseOverDragging:" : "ar 10/15/2002 18:19",
+		"highlightColor" : "ar 10/15/2002 22:44",
+		"highlightColor:" : "ar 10/15/2002 22:44",
+		"highlightWidth" : "ar 10/25/2002 20:43",
+		"highlightWidth:" : "ar 10/25/2002 20:43",
+		"initialize" : "ar 10/25/2002 20:24",
+		"label" : "ar 10/15/2002 18:20",
+		"label:" : "ar 10/15/2002 18:20",
+		"labelColor" : "ar 10/15/2002 22:47",
+		"labelColor:" : "ar 10/15/2002 22:46",
+		"mouseDown:" : "ar 10/15/2002 18:17",
+		"mouseEnter:" : "ar 10/25/2002 20:45",
+		"mouseEnterDragging:" : "ar 10/25/2002 20:25",
+		"mouseLeave:" : "ar 6/16/2003 22:54",
+		"mouseLeaveDragging:" : "ar 10/25/2002 20:25",
+		"mouseUp:" : "ar 10/25/2002 20:45" } }

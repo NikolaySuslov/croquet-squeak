@@ -1,0 +1,1 @@
+TLoginMorph new openInWorld

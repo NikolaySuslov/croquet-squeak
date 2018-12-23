@@ -1,0 +1,2 @@
+palette handling
+paintBoxChanged: arguments

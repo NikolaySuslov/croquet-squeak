@@ -1,0 +1,16 @@
+{
+	"category" : "HedgeHacks-Painter-T3D",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftFace",
+		"rightFace",
+		"fanVertices" ],
+	"name" : "T3DHalfEdge",
+	"pools" : [
+		 ],
+	"super" : "SubdivisionHalfEdge",
+	"type" : "normal" }

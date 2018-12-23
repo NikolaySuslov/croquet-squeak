@@ -1,0 +1,1 @@
+The sole purpose of a TeaBackingMorph is to act as a backing store for rendering overlays.

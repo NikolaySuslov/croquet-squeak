@@ -1,0 +1,4 @@
+building
+buttonColor
+
+	^color darker

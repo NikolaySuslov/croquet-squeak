@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"makeFlash:extent:from:" : "ar 1/19/2006 11:23",
+		"makeMorph:extent:from:" : "ar 1/13/2006 12:36",
+		"makeProjectLink:extent:from:" : "ar 1/13/2006 12:35",
+		"makeWebPage:extent:from:" : "bgf 5/8/2006 15:06" },
+	"instance" : {
+		"canvasForm" : "ar 1/7/2006 13:38",
+		"form" : "ar 1/7/2006 13:31",
+		"initialize" : "ar 11/13/2006 14:45",
+		"initializeWithMorph:thumb:extent:" : "bgf 3/22/2006 07:15",
+		"initializeWithProject:thumb:extent:" : "bgf 3/22/2006 07:16",
+		"onEvent2D:" : "ar 1/13/2006 16:27",
+		"processEvents" : "ar 1/7/2006 17:55",
+		"redraw" : "ar 1/7/2006 13:42",
+		"sendDamage:" : "ar 1/7/2006 14:42",
+		"sha" : "ar 1/7/2006 13:31",
+		"tform" : "ar 1/8/2006 11:52",
+		"thumb" : "ar 1/8/2006 11:53",
+		"update" : "ar 1/30/2006 22:23",
+		"world" : "ar 1/7/2006 13:31" } }

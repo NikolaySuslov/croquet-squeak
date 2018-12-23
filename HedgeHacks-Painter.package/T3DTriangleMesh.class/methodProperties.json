@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"computeFaceNormals" : "ar 3/8/2006 19:42",
+		"computeVertexNormals" : "ar 3/8/2006 19:42",
+		"faces" : "ar 3/8/2006 19:06",
+		"faces:" : "ar 3/8/2006 19:06",
+		"flipZ" : "ar 3/8/2006 19:48",
+		"texCoords" : "ar 3/8/2006 19:06",
+		"texCoords:" : "ar 3/8/2006 19:06",
+		"transformBy:" : "ar 3/8/2006 20:15",
+		"vertexNormals" : "ar 3/8/2006 19:07",
+		"vertexNormals:" : "ar 3/8/2006 19:07",
+		"vertices" : "ar 3/8/2006 19:08",
+		"vertices:" : "ar 3/8/2006 19:08",
+		"zeroBasedFaceGroup" : "ar 3/8/2006 20:25" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "HedgeHacks-Painter-T3D",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "T3DSubdivision",
+	"pools" : [
+		 ],
+	"super" : "Subdivision",
+	"type" : "normal" }

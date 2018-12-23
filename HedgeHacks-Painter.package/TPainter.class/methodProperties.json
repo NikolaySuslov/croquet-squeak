@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptSketch:from:" : "mpm 4/20/2006 17:26",
+		"initiateSaveImage" : "ar 6/17/2003 01:05",
+		"leftButtonScript" : "ar 10/15/2002 23:01",
+		"libraryDirectory" : "ar 6/17/2003 01:01",
+		"makeButton:" : "ar 10/15/2002 18:51",
+		"makeButtonRow:" : "ar 10/15/2002 22:38",
+		"makeControlButton:after:" : "ar 6/17/2003 00:36",
+		"makeControlButtons" : "ar 1/13/2006 16:02",
+		"makeInplaceArrows" : "ar 10/15/2002 23:02",
+		"makeLibrary" : "ar 1/13/2006 16:04",
+		"makeLibraryButtonFrom:" : "ar 6/17/2003 00:43",
+		"makePainter" : "ar 10/15/2002 23:01",
+		"mouseDownSketch:from:" : "ar 6/16/2003 22:51",
+		"mouseUpSketch:from:" : "ar 6/16/2003 22:52",
+		"open" : "ar 6/16/2003 23:43",
+		"repaint:replaceOldCostume:" : "jh 5/19/2003 23:17",
+		"rightButtonScript" : "ar 10/15/2002 23:01",
+		"saveImage" : "ar 6/17/2003 00:55",
+		"scrollBack:" : "ar 6/16/2003 23:24",
+		"scrollForward:" : "ar 6/16/2003 23:21",
+		"updateLibrary:" : "ar 1/13/2006 16:03" } }

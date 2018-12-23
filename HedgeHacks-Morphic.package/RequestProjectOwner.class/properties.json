@@ -1,0 +1,14 @@
+{
+	"category" : "HedgeHacks-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RequestProjectOwner",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

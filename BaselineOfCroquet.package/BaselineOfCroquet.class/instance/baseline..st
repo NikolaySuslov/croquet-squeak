@@ -43,6 +43,16 @@ baseline: spec
 				package: 'Croquet-Embed'
 					with: [ spec requires: #('Croquet-Import') ];
 				package: 'Croquet-Menus'
-					with: [ spec requires: #('Croquet-Embed') ].
+					with: [ spec requires: #('Croquet-Embed') ];
+				package: 'HedgeHacks-3Body'
+					with: [ spec requires: #('Croquet-Menus') ];
+				package: 'HedgeHacks-Morphic'
+					with: [ spec requires: #('HedgeHacks-3Body') ];
+				package: 'HedgeHacks-Painter'
+					with: [ spec requires: #('HedgeHacks-Morphic') ];
+				package: 'HedgeHacks-Spreadsheet'
+					with: [ spec requires: #('HedgeHacks-Painter') ];
+				package: 'HedgeHacks-BFD'
+					with: [ spec requires: #('HedgeHacks-Spreadsheet') ].
             spec
-                group: 'default' with: #('3DTransform' 'Croquet-Menus')]
+                group: 'default' with: #('3DTransform' 'HedgeHacks-BFD')]

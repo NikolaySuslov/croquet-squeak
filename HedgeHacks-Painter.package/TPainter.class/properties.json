@@ -1,0 +1,19 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"leftButton",
+		"rightButton",
+		"editor",
+		"repaintedPlayer",
+		"replaceOldCostume",
+		"sketchLib" ],
+	"name" : "TPainter",
+	"pools" : [
+		 ],
+	"super" : "TModel",
+	"type" : "normal" }

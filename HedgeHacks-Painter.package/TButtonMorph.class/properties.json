@@ -1,0 +1,18 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"label",
+		"highlightColor",
+		"oldColor",
+		"oldWidth",
+		"highlightWidth" ],
+	"name" : "TButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

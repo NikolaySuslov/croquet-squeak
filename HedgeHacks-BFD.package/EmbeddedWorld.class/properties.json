@@ -1,0 +1,14 @@
+{
+	"category" : "HedgeHacks-BFD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "EmbeddedWorld",
+	"pools" : [
+		 ],
+	"super" : "BaseWorld",
+	"type" : "normal" }

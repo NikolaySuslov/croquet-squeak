@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"islandID" : "ar 1/18/2006 11:44" },
+	"instance" : {
+		"initialize" : "hrs 11/15/2006 06:38",
+		"loadNewFish" : "ar 3/15/2006 14:48",
+		"makeSomeFish:target:" : "ar 2/1/2006 18:32",
+		"makeWebPage:extent:" : "bgf 9/8/2006 17:56" } }

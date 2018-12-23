@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"glRenderOn:" : "bgf 5/16/2006 22:00",
+		"initialize" : "ar 8/19/2002 19:51",
+		"invalidRect:from:" : "ar 9/8/2002 03:26",
+		"position:" : "ar 9/6/2002 22:53",
+		"repairDamage" : "ar 2/1/2006 14:54" } }

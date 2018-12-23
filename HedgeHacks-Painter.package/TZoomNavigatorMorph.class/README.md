@@ -1,0 +1,1 @@
+TZoomNavigatorMorph new openInWorld

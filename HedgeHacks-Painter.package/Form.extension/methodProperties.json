@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"colorKeyAlpha" : "ar 1/7/2006 20:01",
+		"colorKeyZero" : "ar 1/7/2006 20:01",
+		"displayScaledOn:in:" : "ar 1/7/2006 19:50",
+		"flipVertically" : "ar 1/7/2006 20:07",
+		"safePixelAt:using:" : "ar 1/11/2006 14:37",
+		"smearFill:" : "ar 1/11/2006 14:28",
+		"traceOutline:" : "ar 1/11/2006 14:36",
+		"traceOutline:do:" : "ar 1/11/2006 14:37",
+		"traceOutlines" : "ar 1/11/2006 14:36",
+		"traceRegionMask:" : "ar 1/11/2006 14:37" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "HedgeHacks-Painter-T3D",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"flags",
+		"e1",
+		"e2",
+		"e3",
+		"next" ],
+	"name" : "T3DTriangle",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

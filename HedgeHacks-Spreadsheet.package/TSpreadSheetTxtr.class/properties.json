@@ -1,0 +1,15 @@
+{
+	"category" : "HedgeHacks-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selection",
+		"farray" ],
+	"name" : "TSpreadSheetTxtr",
+	"pools" : [
+		 ],
+	"super" : "TTextureHackForm",
+	"type" : "normal" }

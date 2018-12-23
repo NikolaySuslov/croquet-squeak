@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"flushHosts" : "ar 1/13/2006 18:05",
+		"registerHost:" : "ar 1/8/2006 11:53" },
+	"instance" : {
+		"constructor" : "ar 1/6/2006 20:54",
+		"constructor:" : "ar 1/6/2006 21:18",
+		"exportOnIslandCopier:" : "jcg 8/13/2006 00:57",
+		"liveUpdate" : "ar 1/13/2006 11:02",
+		"myEventMap" : "ar 1/13/2006 18:02",
+		"myEventMap:" : "ar 1/13/2006 18:02",
+		"myFarRef" : "ar 1/8/2006 11:49",
+		"myFarRef:" : "ar 1/8/2006 11:49",
+		"texture" : "ar 1/12/2006 18:37",
+		"texture:" : "ar 1/12/2006 18:37",
+		"worldExtent" : "ar 1/8/2006 11:51",
+		"worldExtent:" : "ar 1/8/2006 11:51" } }

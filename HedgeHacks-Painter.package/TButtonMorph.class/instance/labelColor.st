@@ -1,0 +1,3 @@
+accessing
+labelColor
+	^label color

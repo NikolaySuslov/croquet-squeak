@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"makeTextEditor" : "ar 1/7/2006 15:58" },
+	"instance" : {
+		"initialize" : "ar 1/13/2006 11:03",
+		"makeFloor:fileName:" : "ar 1/6/2006 20:07",
+		"makeMorphic:extent:" : "bgf 5/14/2006 14:01" } }

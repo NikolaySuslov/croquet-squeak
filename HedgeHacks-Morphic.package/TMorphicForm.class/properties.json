@@ -1,0 +1,18 @@
+{
+	"category" : "HedgeHacks-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MorphHosts" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"myEventMap",
+		"myFarRef",
+		"texture",
+		"worldExtent",
+		"constructor" ],
+	"name" : "TMorphicForm",
+	"pools" : [
+		 ],
+	"super" : "TForm",
+	"type" : "normal" }

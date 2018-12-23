@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"new" : "ar 9/8/2002 02:24",
+		"open" : "ar 9/8/2002 02:23" },
+	"instance" : {
+		"camera:" : "ar 10/1/2004 14:10",
+		"close" : "ar 10/12/2002 23:49",
+		"closeRequest" : "ar 10/25/2002 23:22",
+		"delete" : "ar 9/10/2002 21:15",
+		"initialize" : "ar 9/8/2002 02:23",
+		"myEventMap" : "ar 9/8/2002 03:56",
+		"myEventMap:" : "ar 9/8/2002 03:56",
+		"myScripts" : "ar 9/8/2002 03:56",
+		"myScripts:" : "ar 9/8/2002 03:56",
+		"open" : "ar 10/25/2002 23:21",
+		"perform:orSendTo:" : "ar 9/8/2002 14:28",
+		"postBuildIn:" : "ar 10/26/2002 00:47",
+		"window" : "ar 10/25/2002 22:10",
+		"windowColor" : "ar 9/8/2002 02:47" } }

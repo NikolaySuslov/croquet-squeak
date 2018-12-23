@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"islandID" : "ar 1/18/2006 11:00" },
+	"instance" : {
+		"initialize" : "bgf 3/9/2006 17:21",
+		"makeWaterfall:" : "das 3/2/2006 16:34",
+		"makeWaterfallBottom:" : "das 3/2/2006 16:34" } }

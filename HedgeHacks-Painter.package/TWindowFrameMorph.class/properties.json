@@ -1,0 +1,20 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CloseButtonForm",
+		"ExpandButtonForm" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"closeButton",
+		"expandButton",
+		"collapseButton",
+		"doItButton",
+		"label",
+		"alphaSlider" ],
+	"name" : "TWindowFrameMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

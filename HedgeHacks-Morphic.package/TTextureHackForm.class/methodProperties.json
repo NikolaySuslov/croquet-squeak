@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"eventMask" : "ar 1/27/2006 14:22",
+		"exportOnIslandCopier:" : "jcg 8/13/2006 01:22",
+		"initializeWithTForm:" : "bgf 5/19/2006 08:42",
+		"keyStroke:" : "ar 1/7/2006 15:17",
+		"liveUpdate" : "bgf 3/23/2006 10:27",
+		"offscreenRate" : "bgf 5/19/2006 08:41",
+		"onscreenRate" : "bgf 6/11/2006 23:20",
+		"passEvent:type:" : "ar 1/30/2006 21:56",
+		"passEvents:" : "ar 1/6/2006 20:03",
+		"pointerDown:" : "ar 1/7/2006 15:44",
+		"pointerEnter:" : "ar 1/6/2006 21:43",
+		"pointerLeave:" : "ar 1/6/2006 21:43",
+		"pointerMove:" : "ar 1/30/2006 21:56",
+		"pointerOver:" : "ar 1/7/2006 15:49",
+		"pointerUp:" : "ar 1/7/2006 15:44",
+		"render:" : "bgf 5/18/2006 13:15",
+		"renderAlpha:" : "das 6/8/2006 16:24",
+		"startStepping" : "bgf 5/23/2006 11:38",
+		"step" : "bgf 5/19/2006 08:42",
+		"targetExtent:" : "ar 1/13/2006 14:02" } }

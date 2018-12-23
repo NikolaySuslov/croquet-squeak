@@ -1,0 +1,27 @@
+{
+	"category" : "HedgeHacks-3Body",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"earth",
+		"earthFrame",
+		"earthRot",
+		"tilt",
+		"moon",
+		"moonFrame",
+		"moonVelocity",
+		"earthGravity",
+		"moonGravity",
+		"thirdBody",
+		"stepRemainder",
+		"speed",
+		"saveVelocity",
+		"savePosition" ],
+	"name" : "T3BodyDemo",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

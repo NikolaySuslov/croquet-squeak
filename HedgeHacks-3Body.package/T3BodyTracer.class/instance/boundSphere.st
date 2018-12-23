@@ -1,0 +1,4 @@
+accessing
+boundSphere
+
+	^ bounds.

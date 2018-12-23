@@ -1,0 +1,1 @@
+Base world constructor with a few utility methods.

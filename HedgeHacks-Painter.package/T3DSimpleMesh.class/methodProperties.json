@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"withAll:" : "ar 3/8/2006 19:15" },
+	"instance" : {
+		"asIndexedMesh" : "ar 3/8/2006 19:16",
+		"asIndexedTriangleMesh" : "ar 3/8/2006 19:36",
+		"faces" : "ar 3/8/2006 19:33",
+		"faces:" : "ar 3/8/2006 19:18",
+		"isDegenerateFace:" : "ar 3/8/2006 19:36",
+		"transformedBy:" : "ar 3/8/2006 19:18",
+		"trianglesDo:" : "ar 3/8/2006 19:20" } }

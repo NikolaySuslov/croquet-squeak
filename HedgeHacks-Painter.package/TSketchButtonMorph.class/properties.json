@@ -1,0 +1,14 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TSketchButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "SketchMorph",
+	"type" : "normal" }

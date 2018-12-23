@@ -22,5 +22,10 @@ OrderedDictionary {
 	'Croquet-Harness.package' : #SquotCypressCodeSerializer,
 	'Croquet-Import.package' : #SquotCypressCodeSerializer,
 	'Croquet-Embed.package' : #SquotCypressCodeSerializer,
-	'Croquet-Menus.package' : #SquotCypressCodeSerializer
+	'Croquet-Menus.package' : #SquotCypressCodeSerializer,
+	'HedgeHacks-3Body.package' : #SquotCypressCodeSerializer,
+	'HedgeHacks-Morphic.package' : #SquotCypressCodeSerializer,
+	'HedgeHacks-Painter.package' : #SquotCypressCodeSerializer,
+	'HedgeHacks-Spreadsheet.package' : #SquotCypressCodeSerializer,
+	'HedgeHacks-BFD.package' : #SquotCypressCodeSerializer
 }

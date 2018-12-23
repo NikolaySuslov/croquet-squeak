@@ -1,0 +1,18 @@
+{
+	"category" : "HedgeHacks-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"theName",
+		"theNameMorph",
+		"thePasswordMorph",
+		"actionBlock",
+		"cancelBlock" ],
+	"name" : "TLoginMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorphBob1",
+	"type" : "normal" }

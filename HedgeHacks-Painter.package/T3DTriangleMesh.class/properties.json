@@ -1,0 +1,17 @@
+{
+	"category" : "HedgeHacks-Painter-T3D",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertices",
+		"vtxNormals",
+		"vtxTexCoords",
+		"faces" ],
+	"name" : "T3DTriangleMesh",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
