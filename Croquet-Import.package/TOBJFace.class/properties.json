@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Import",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertexIndices",
+		"normalIndices",
+		"textureUVIndices",
+		"materialName" ],
+	"name" : "TOBJFace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

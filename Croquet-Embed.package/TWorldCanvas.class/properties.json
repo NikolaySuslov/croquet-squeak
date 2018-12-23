@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Embed-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"monitor" ],
+	"name" : "TWorldCanvas",
+	"pools" : [
+		 ],
+	"super" : "FormCanvas",
+	"type" : "normal" }

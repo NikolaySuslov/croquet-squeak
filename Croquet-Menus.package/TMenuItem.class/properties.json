@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"label",
+		"action",
+		"checked",
+		"disabled",
+		"separator",
+		"icon",
+		"subMenu" ],
+	"name" : "TMenuItem",
+	"pools" : [
+		 ],
+	"super" : "TObject",
+	"type" : "normal" }

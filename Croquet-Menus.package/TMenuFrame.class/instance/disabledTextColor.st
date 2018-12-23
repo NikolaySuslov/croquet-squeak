@@ -1,0 +1,3 @@
+properties
+disabledTextColor
+	^menuStyle disabledTextColor

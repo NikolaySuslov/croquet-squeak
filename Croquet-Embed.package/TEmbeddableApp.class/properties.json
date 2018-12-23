@@ -1,0 +1,18 @@
+{
+	"category" : "Croquet-Embed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"app",
+		"userID",
+		"appID",
+		"display",
+		"extent" ],
+	"name" : "TEmbeddableApp",
+	"pools" : [
+		 ],
+	"super" : "TObject",
+	"type" : "normal" }

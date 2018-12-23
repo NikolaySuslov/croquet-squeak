@@ -1,0 +1,3 @@
+properties
+menuItemFont
+	^menuStyle itemFont

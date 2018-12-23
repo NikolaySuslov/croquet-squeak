@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Embed-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "THandMorph",
+	"pools" : [
+		 ],
+	"super" : "HandMorph",
+	"type" : "normal" }

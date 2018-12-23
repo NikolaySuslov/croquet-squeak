@@ -1,0 +1,21 @@
+{
+	"category" : "Croquet-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"backgroundColor",
+		"itemFont",
+		"normalItemColor",
+		"selectedItemColor",
+		"normalTextColor",
+		"selectedTextColor",
+		"disabledTextColor",
+		"separatorColor" ],
+	"name" : "TMenuStyle",
+	"pools" : [
+		 ],
+	"super" : "TObject",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+properties
+backgroundColor
+	^menuStyle backgroundColor

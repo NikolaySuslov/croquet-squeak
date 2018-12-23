@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Import",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"textures" ],
+	"name" : "TLoadMDL",
+	"pools" : [
+		 ],
+	"super" : "TFrame",
+	"type" : "normal" }

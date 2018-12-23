@@ -1,0 +1,3 @@
+accessing
+contactsByID
+	^contactPoint contactsByID

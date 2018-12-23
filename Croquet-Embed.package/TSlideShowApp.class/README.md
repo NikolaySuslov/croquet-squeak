@@ -1,0 +1,1 @@
+(c) 2006 Qwaq Inc. TSlideShowApp utilizez the Croquet messaging mechanism to synchronize the (otherwise non-replicated) simple slideshow. It is an example for how an app can utilize Croquet messaging to provide a limited amount of synchronized execution.

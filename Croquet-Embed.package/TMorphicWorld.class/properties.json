@@ -1,0 +1,17 @@
+{
+	"category" : "Croquet-Embed-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"world",
+		"hands",
+		"updating",
+		"morph" ],
+	"name" : "TMorphicWorld",
+	"pools" : [
+		"EventSensorConstants" ],
+	"super" : "TEmbeddableApp",
+	"type" : "normal" }

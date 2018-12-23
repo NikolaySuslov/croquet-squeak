@@ -33,6 +33,16 @@ baseline: spec
 				package: 'Croquet-Demo'
 					with: [ spec requires: #('Croquet-Objects') ];
 				package: 'Croquet-Window'
-					with: [ spec requires: #('Croquet-Demo') ].
+					with: [ spec requires: #('Croquet-Demo') ];
+				package: 'Croquet-Islands'
+					with: [ spec requires: #('Croquet-Window') ];
+				package: 'Croquet-Harness'
+					with: [ spec requires: #('Croquet-Islands') ];
+				package: 'Croquet-Import'
+					with: [ spec requires: #('Croquet-Harness') ];
+				package: 'Croquet-Embed'
+					with: [ spec requires: #('Croquet-Import') ];
+				package: 'Croquet-Menus'
+					with: [ spec requires: #('Croquet-Embed') ].
             spec
-                group: 'default' with: #('3DTransform' 'Croquet-Window')]
+                group: 'default' with: #('3DTransform' 'Croquet-Menus')]

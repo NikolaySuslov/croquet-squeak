@@ -1,0 +1,3 @@
+properties
+selectedItemColor
+	^menuStyle selectedItemColor

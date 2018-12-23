@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testNextToken" : "ar 4/4/2006 21:13",
+		"testNextTokenWithParenthesis" : "ar 4/4/2006 21:13",
+		"testParse" : "ar 4/4/2006 21:14",
+		"testParseNesting" : "tak 6/23/2004 10:58",
+		"testParseNesting2" : "tak 6/23/2004 10:58" } }

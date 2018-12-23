@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Embed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TSlideShowApp",
+	"pools" : [
+		 ],
+	"super" : "TSimpleSlideShow",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Import",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"value" ],
+	"name" : "T3DSParseNode",
+	"pools" : [
+		 ],
+	"super" : "Link",
+	"type" : "normal" }

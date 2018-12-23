@@ -1,0 +1,4 @@
+selection
+distance
+
+	^ selection distance.

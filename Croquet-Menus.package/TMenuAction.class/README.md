@@ -1,0 +1,1 @@
+(c) 2006 Qwaq Inc. TMenuAction is a message taking an extra argument (the event firing the action) for evaluation.

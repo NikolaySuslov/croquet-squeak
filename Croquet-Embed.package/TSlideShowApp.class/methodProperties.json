@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"initialize" : "ar 7/18/2006 11:36" },
+	"instance" : {
+		"displayFirstImage" : "jrd 11/8/2010 17:38",
+		"displayNextImage" : "ar 7/18/2006 12:12",
+		"displayPrevImage" : "jrd 11/8/2010 17:38",
+		"initializeEvents" : "ar 7/18/2006 12:07",
+		"onUpdateImage:" : "ar 7/18/2006 12:13" } }

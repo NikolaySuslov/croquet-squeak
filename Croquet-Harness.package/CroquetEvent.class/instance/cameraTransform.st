@@ -1,0 +1,4 @@
+selection
+cameraTransform
+
+	^ selection cameraTransform.

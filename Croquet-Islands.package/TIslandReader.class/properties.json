@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Islands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TIslandReader",
+	"pools" : [
+		 ],
+	"super" : "IslandReader",
+	"type" : "normal" }

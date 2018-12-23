@@ -1,0 +1,3 @@
+properties
+selectedTextColor
+	^menuStyle selectedTextColor

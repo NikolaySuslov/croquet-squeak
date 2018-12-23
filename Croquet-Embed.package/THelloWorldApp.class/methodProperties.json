@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"initialize" : "tmp 7/17/2006 16:14" },
+	"instance" : {
+		"onMouseEvent:" : "ar 7/17/2006 20:50",
+		"redraw" : "tmp 7/17/2006 15:50",
+		"redraw:" : "ar 7/18/2006 13:24" } }

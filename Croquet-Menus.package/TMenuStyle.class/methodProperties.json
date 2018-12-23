@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"backgroundColor" : "ar 8/1/2006 08:35",
+		"backgroundColor:" : "ar 8/1/2006 08:35",
+		"disabledTextColor" : "ar 8/1/2006 08:35",
+		"disabledTextColor:" : "ar 8/1/2006 08:35",
+		"initialize" : "bgf 8/7/2006 15:22",
+		"itemFont" : "ar 8/1/2006 08:39",
+		"itemFont:" : "ar 8/1/2006 08:39",
+		"normalItemColor" : "ar 8/1/2006 08:35",
+		"normalItemColor:" : "ar 8/1/2006 08:35",
+		"normalTextColor" : "ar 8/1/2006 08:35",
+		"normalTextColor:" : "ar 8/1/2006 08:36",
+		"selectedItemColor" : "ar 8/1/2006 08:36",
+		"selectedItemColor:" : "ar 8/1/2006 08:36",
+		"selectedTextColor" : "ar 8/1/2006 08:36",
+		"selectedTextColor:" : "ar 8/1/2006 08:36",
+		"separatorColor" : "ar 8/1/2006 08:36",
+		"separatorColor:" : "ar 8/1/2006 08:36" } }

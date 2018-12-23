@@ -1,0 +1,3 @@
+properties
+normalTextColor
+	^menuStyle normalTextColor

@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Harness",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 4/3/2006 02:03",
+	"instvars" : [
+		"contactBroadcaster" ],
+	"name" : "CroquetMaster",
+	"pools" : [
+		 ],
+	"super" : "CroquetParticipant",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Embed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "THelloWorldApp",
+	"pools" : [
+		 ],
+	"super" : "TEmbeddableApp",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Harness",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 4/20/2006 12:43",
+	"instvars" : [
+		"userID",
+		"buttons",
+		"keyValue",
+		"selection",
+		"avatarID",
+		"camera",
+		"timeStamp" ],
+	"name" : "CroquetEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

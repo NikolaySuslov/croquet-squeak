@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"initialize" : "ar 7/18/2006 10:50" },
+	"instance" : {
+		"canvasForm" : "bgf 9/8/2006 17:52",
+		"destroy" : "jrd 1/5/2010 16:39",
+		"initialize" : "ar 11/13/2006 15:05",
+		"makeFlash:" : "jcg 10/13/2006 13:35",
+		"makeHTMLEditor:" : "bgf 9/8/2006 17:55",
+		"makeMorph:" : "ar 7/18/2006 10:47",
+		"makeMovie:" : "ar 7/18/2006 10:48",
+		"makeMovieFromURI:" : "mka 12/7/2008 19:26",
+		"makeProjectLink:" : "hrs 10/18/2006 22:26",
+		"makeRFB:address:port:" : "jrd 1/5/2010 16:56",
+		"makeWorld:" : "jrd 1/5/2010 16:25",
+		"makeXrfb:id:" : "jrd 1/5/2010 16:26",
+		"newFrom:" : "jcg 10/19/2006 22:25",
+		"onAppExtentChanged:" : "jrd 1/5/2010 16:24",
+		"onContainerClosed:" : "jrd 12/7/2010 12:40",
+		"onContainerOpened:" : "jrd 12/7/2010 12:41",
+		"onKeyboardEvent:" : "ar 7/18/2006 13:35",
+		"onMouseEvent:" : "ar 7/18/2006 13:27",
+		"onStep:" : "ar 7/17/2006 20:56",
+		"processEvent:userID:" : "ar 9/25/2006 15:21",
+		"redraw" : "tmp 7/17/2006 15:35",
+		"sendDamage:" : "bgf 9/8/2006 17:52",
+		"update" : "ar 7/18/2006 13:51" } }

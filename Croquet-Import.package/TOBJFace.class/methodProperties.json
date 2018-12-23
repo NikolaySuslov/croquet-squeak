@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addVertex:texture:normal:" : "pbm 11/20/2006 16:51",
+		"initialize" : "pbm 11/20/2006 16:48",
+		"materialName" : "pbm 11/20/2006 16:53",
+		"materialName:" : "pbm 11/20/2006 16:53",
+		"normalIndices" : "pbm 11/20/2006 16:52",
+		"size" : "pbm 11/20/2006 16:54",
+		"textureUVIndices" : "pbm 11/20/2006 16:52",
+		"triangulate" : "pbm 11/21/2006 14:34",
+		"vertexIndices" : "pbm 11/20/2006 16:52" } }

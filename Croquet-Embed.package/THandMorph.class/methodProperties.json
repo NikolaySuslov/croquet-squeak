@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"mouseTrailFrom:" : "ar 1/13/2006 16:42",
+		"processEventBuffer:" : "ar 1/13/2006 16:42",
+		"processEvents" : "ar 1/7/2006 13:32",
+		"restoreSavedPatchOn:" : "ar 1/13/2006 16:25",
+		"savePatchFrom:" : "ar 2/1/2006 14:57",
+		"showHardwareCursor:" : "ar 1/7/2006 13:32" } }

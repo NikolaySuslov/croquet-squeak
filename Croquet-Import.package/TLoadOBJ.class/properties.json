@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Import",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scale",
+		"vertices",
+		"normals",
+		"textureUV",
+		"faces",
+		"materials",
+		"frame" ],
+	"name" : "TLoadOBJ",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

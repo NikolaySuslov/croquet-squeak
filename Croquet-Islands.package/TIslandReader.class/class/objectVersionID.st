@@ -1,0 +1,3 @@
+class initialization
+objectVersionID
+	^TIslandWriter objectVersionID

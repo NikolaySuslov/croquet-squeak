@@ -1,0 +1,4 @@
+selection
+portalPoint
+
+	^ selection portalPoint.

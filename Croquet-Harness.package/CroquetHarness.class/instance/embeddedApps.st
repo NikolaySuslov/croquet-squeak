@@ -1,0 +1,3 @@
+embedded apps
+embeddedApps
+	^embeddedApps

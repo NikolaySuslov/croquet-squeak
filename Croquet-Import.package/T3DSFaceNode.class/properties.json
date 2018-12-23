@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Import",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"face" ],
+	"name" : "T3DSFaceNode",
+	"pools" : [
+		 ],
+	"super" : "Link",
+	"type" : "normal" }

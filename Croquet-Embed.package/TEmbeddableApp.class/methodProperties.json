@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"instantiateEmbeddedApp:" : "ar 7/18/2006 11:15" },
+	"instance" : {
+		"app" : "tmp 7/17/2006 15:44",
+		"appID" : "jrd 1/5/2010 19:21",
+		"appID:" : "jrd 1/5/2010 19:21",
+		"destroy" : "jrd 1/5/2010 18:33",
+		"display" : "tmp 7/17/2006 15:44",
+		"displayForm" : "ar 7/18/2006 13:24",
+		"forceDisplayUpdate" : "tmp 7/17/2006 15:43",
+		"initialize:data:extent:" : "ar 7/18/2006 11:16",
+		"initializeEvents" : "jrd 12/6/2010 17:19",
+		"invalidate" : "ar 7/18/2006 11:26",
+		"invalidate:" : "tmp 7/17/2006 15:42",
+		"newFrom:" : "ar 7/17/2006 17:30",
+		"onContainerClosed:" : "jrd 12/6/2010 17:19",
+		"onContainerOpened:" : "jrd 12/6/2010 17:19",
+		"onDestroy" : "jrd 1/4/2010 14:53",
+		"onKeyboardEvent:" : "ar 7/17/2006 20:49",
+		"onMouseEvent:" : "ar 7/17/2006 20:49",
+		"onStep:" : "tmp 7/17/2006 15:41",
+		"redraw" : "ar 7/18/2006 15:29",
+		"userID" : "ar 7/18/2006 11:51",
+		"userID:" : "ar 7/18/2006 11:51" } }

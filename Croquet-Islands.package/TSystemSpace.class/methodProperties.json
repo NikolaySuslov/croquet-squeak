@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bounds:" : "das 7/10/2005 20:22",
+		"eventMask" : "das 5/23/2006 11:45",
+		"initialize" : "das 7/5/2006 13:26",
+		"rearrange:" : "das 3/2/2006 16:01",
+		"renderClearBounds:" : "das 7/10/2005 15:26" } }

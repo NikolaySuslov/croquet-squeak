@@ -1,0 +1,26 @@
+{
+	"category" : "Croquet-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labelFrame",
+		"menuForm",
+		"menuFormExtent",
+		"menuTxtr",
+		"menuItems",
+		"alignment",
+		"selectedItem",
+		"subMenu",
+		"parentMenu",
+		"focused",
+		"menuStyle",
+		"selectedPoint",
+		"cameraNorm" ],
+	"name" : "TMenuFrame",
+	"pools" : [
+		 ],
+	"super" : "TGroup",
+	"type" : "normal" }

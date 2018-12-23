@@ -1,0 +1,3 @@
+properties
+normalItemColor
+	^menuStyle normalItemColor

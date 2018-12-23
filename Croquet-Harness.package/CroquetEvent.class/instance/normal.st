@@ -1,0 +1,4 @@
+selection
+normal
+
+	^ selection normal

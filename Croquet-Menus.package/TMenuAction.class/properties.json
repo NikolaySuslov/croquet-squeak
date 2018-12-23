@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TMenuAction",
+	"pools" : [
+		 ],
+	"super" : "MessageSend",
+	"type" : "normal" }

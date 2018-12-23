@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"initialize" : "ar 7/18/2006 14:48" },
+	"instance" : {
+		"displayFirstImage" : "jrd 11/4/2010 22:42",
+		"displayImage" : "jrd 11/8/2010 17:44",
+		"displayNextImage" : "ar 7/18/2006 12:11",
+		"displayPrevImage" : "jrd 11/4/2010 22:46",
+		"newFrom:" : "jrd 11/4/2010 17:49",
+		"onMouseEvent:" : "jrd 11/4/2010 22:48",
+		"redraw" : "ar 7/18/2006 13:24" } }

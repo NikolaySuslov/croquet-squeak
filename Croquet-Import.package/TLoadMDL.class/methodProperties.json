@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildMesh:faces:normals:textureUV:textureMap:" : "jcg 6/3/2006 23:37",
+		"fixTransformsIn:" : "ar 1/13/2006 15:09",
+		"frame" : "pbm 8/15/2007 11:01",
+		"getChildNamed:from:" : "ar 10/8/2002 02:35",
+		"initialize" : "ar 1/15/2006 14:59",
+		"loadMeshFromFile:texture:" : "sn 2/26/2018 02:12",
+		"parseFileNamed:" : "sn 2/26/2018 02:15",
+		"parseOBJFile:texture:" : "ar 1/13/2006 15:09",
+		"parseVFBFile:texture:" : "ar 1/13/2006 15:09",
+		"scaleFactor" : "ar 10/8/2002 09:55",
+		"spell:in:" : "ar 10/17/2004 22:59" } }

@@ -1,0 +1,1 @@
+A simple Morph used to manage a minimal version of Croquet.

@@ -1,0 +1,3 @@
+accessing
+camera
+	^ogl camera

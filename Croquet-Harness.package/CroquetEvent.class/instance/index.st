@@ -1,0 +1,4 @@
+selection
+index
+
+	^ selection index

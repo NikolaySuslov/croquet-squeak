@@ -1,0 +1,15 @@
+{
+	"category" : "Croquet-Harness",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultForm" ],
+	"commentStamp" : "das 4/22/2005 16:58",
+	"instvars" : [
+		"harness",
+		"lastBounds" ],
+	"name" : "CroquetParticipant",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "Morph",
+	"type" : "normal" }

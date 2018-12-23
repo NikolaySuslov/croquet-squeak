@@ -1,0 +1,4 @@
+selection
+framePosition
+
+	^ selection framePosition

@@ -1,0 +1,20 @@
+{
+	"category" : "Croquet-Embed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"RegisteredApps" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"appName",
+		"appData",
+		"appID",
+		"appExtent",
+		"onscreenRate",
+		"offscreenRate",
+		"stepRate" ],
+	"name" : "TEmbeddedApp",
+	"pools" : [
+		 ],
+	"super" : "TTexture",
+	"type" : "normal" }

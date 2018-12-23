@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"initializeWithFileName:" : "pbm 11/15/2006 15:45",
+		"initializeWithFileName:scale:" : "pbm 11/15/2006 15:45" },
+	"instance" : {
+		"buildMesh" : "pbm 2/15/2007 16:52",
+		"faces" : "pbm 10/21/2006 20:20",
+		"frame" : "pbm 11/20/2006 16:33",
+		"initialize" : "pbm 3/14/2007 11:20",
+		"initializeWithFileName:" : "pbm 11/15/2006 14:43",
+		"initializeWithFileName:scale:" : "pbm 11/15/2006 17:10",
+		"loadTexture:" : "pbm 10/25/2006 19:32",
+		"makeColor:" : "pbm 11/16/2006 11:31",
+		"makeFace:" : "pbm 9/4/2007 10:51",
+		"makeNormal:" : "pbm 11/16/2006 17:29",
+		"makeTextureUV:" : "pbm 11/14/2006 15:55",
+		"makeVector3:" : "pbm 10/21/2006 20:17",
+		"makeVertex:" : "pbm 11/14/2006 15:51",
+		"materials" : "pbm 10/25/2006 14:33",
+		"normals" : "pbm 11/14/2006 15:44",
+		"parseMtlFile:" : "pbm 11/22/2006 14:41",
+		"parseStream:" : "pbm 3/14/2007 11:20",
+		"textureUV" : "pbm 11/21/2006 15:01",
+		"triangulateFaces" : "pbm 11/21/2006 17:29",
+		"vertices" : "pbm 10/20/2006 15:00" } }

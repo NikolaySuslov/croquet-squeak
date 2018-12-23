@@ -1,0 +1,4 @@
+accessing
+shadeAngle
+
+	^ shadeAngle radiansToDegrees.

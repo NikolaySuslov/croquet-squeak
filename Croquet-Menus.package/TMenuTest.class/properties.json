@@ -1,0 +1,14 @@
+{
+	"category" : "Croquet-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TMenuTest",
+	"pools" : [
+		 ],
+	"super" : "TCube",
+	"type" : "normal" }

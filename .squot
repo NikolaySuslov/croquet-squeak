@@ -17,5 +17,10 @@ OrderedDictionary {
 	'Croquet-Copier.package' : #SquotCypressCodeSerializer,
 	'Croquet-Objects.package' : #SquotCypressCodeSerializer,
 	'Croquet-Demo.package' : #SquotCypressCodeSerializer,
-	'Croquet-Window.package' : #SquotCypressCodeSerializer
+	'Croquet-Window.package' : #SquotCypressCodeSerializer,
+	'Croquet-Islands.package' : #SquotCypressCodeSerializer,
+	'Croquet-Harness.package' : #SquotCypressCodeSerializer,
+	'Croquet-Import.package' : #SquotCypressCodeSerializer,
+	'Croquet-Embed.package' : #SquotCypressCodeSerializer,
+	'Croquet-Menus.package' : #SquotCypressCodeSerializer
 }

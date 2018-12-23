@@ -1,0 +1,3 @@
+islands
+howToPassAsArgument
+	^#passByClone:

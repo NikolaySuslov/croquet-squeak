@@ -1,0 +1,4 @@
+selection
+distanceSquared
+
+	^ selection distanceSquared.

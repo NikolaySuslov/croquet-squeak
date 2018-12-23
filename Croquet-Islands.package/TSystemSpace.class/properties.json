@@ -1,0 +1,16 @@
+{
+	"category" : "Croquet-Islands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"corners",
+		"cornerVector",
+		"views" ],
+	"name" : "TSystemSpace",
+	"pools" : [
+		 ],
+	"super" : "TSpace",
+	"type" : "normal" }

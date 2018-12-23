@@ -1,0 +1,3 @@
+properties
+separatorColor
+	^menuStyle separatorColor
