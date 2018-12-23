@@ -1,0 +1,18 @@
+{
+	"category" : "Croquet-Contacts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"DefaultPort" ],
+	"commentStamp" : "sn 2/26/2018 15:22",
+	"instvars" : [
+		"broadcaster",
+		"webserver",
+		"mutex",
+		"sockets" ],
+	"name" : "TBroadcasterStandalone",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

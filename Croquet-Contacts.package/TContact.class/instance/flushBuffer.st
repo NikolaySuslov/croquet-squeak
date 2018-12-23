@@ -1,0 +1,3 @@
+accessing
+flushBuffer
+	buffer := nil.

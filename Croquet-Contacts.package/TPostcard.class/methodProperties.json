@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"howToPassAsArgument" : "das 11/14/2005 10:53" },
+	"instance" : {
+		"isFrame" : "das 12/7/2005 17:56",
+		"isPortal" : "das 11/14/2005 09:59",
+		"isPostcard" : "das 12/7/2005 17:55",
+		"isTexture" : "bgf 3/20/2006 17:47",
+		"postCopy" : "jcg 3/30/2006 20:33",
+		"printOn:" : "das 11/30/2005 10:52",
+		"resolveViewpoint:" : "das 12/2/2005 11:13",
+		"routerAddress" : "das 11/14/2005 09:11",
+		"routerAddress:id:name:viewpointID:" : "ar 1/31/2006 18:05",
+		"routerAddress:id:name:viewpointName:" : "ar 1/31/2006 18:05",
+		"routerID" : "das 11/14/2005 09:11",
+		"routerName" : "das 11/14/2005 09:11",
+		"standin:" : "das 11/14/2005 12:45",
+		"viewpointID" : "das 1/19/2006 16:44",
+		"viewpointName" : "das 11/14/2005 09:16" } }

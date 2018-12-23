@@ -1,0 +1,4 @@
+testing
+isPostcard
+
+	^ true.

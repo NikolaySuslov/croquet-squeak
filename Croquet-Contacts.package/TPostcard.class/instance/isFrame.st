@@ -1,0 +1,4 @@
+testing
+isFrame
+
+	^ false.

@@ -1,0 +1,21 @@
+{
+	"category" : "Croquet-Contacts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultPort" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"broadcastContacts",
+		"udpSocket",
+		"udpListener",
+		"mutex",
+		"broadcaster",
+		"listener",
+		"contactsByName",
+		"contactsByID" ],
+	"name" : "TContactPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

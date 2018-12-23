@@ -1,0 +1,19 @@
+{
+	"category" : "Croquet-Contacts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"routerAddress",
+		"routerID",
+		"routerName",
+		"viewpointName",
+		"viewpointID",
+		"standin" ],
+	"name" : "TPostcard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"category" : "Croquet-Contacts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"address",
+		"port",
+		"name",
+		"id",
+		"time",
+		"buffer",
+		"viewpoint",
+		"viewpointName",
+		"controller" ],
+	"name" : "TContact",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
