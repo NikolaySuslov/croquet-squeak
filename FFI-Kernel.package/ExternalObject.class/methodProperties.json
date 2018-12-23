@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"initialize" : "EstebanLorenzano 12/22/2016 10:59",
+		"install" : "ar 11/28/1999 23:37",
+		"installSubclasses" : "ar 11/28/1999 23:36",
+		"startUp:" : "ar 11/28/1999 23:36" },
+	"instance" : {
+		"getHandle" : "ar 11/16/1999 20:25",
+		"isExternalAddress" : "jcg 6/4/2010 02:40",
+		"isNull" : "ar 11/16/2006 15:36",
+		"setHandle:" : "ar 11/16/1999 20:26" } }

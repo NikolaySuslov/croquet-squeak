@@ -1,0 +1,1 @@
+Simple Catmull-Rom spline object. Simply seed it with four vectors of any dimensionality, then ask for the interpolated value with CatmullRom>>at:t where t is a value between 0.0 and 1.0.

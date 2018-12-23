@@ -1,0 +1,1 @@
+I represent simple 3D coordinates, used throughout Croquet.

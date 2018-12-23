@@ -1,3 +1,10 @@
 OrderedDictionary {
-	'Croquet-Contacts.package' : #SquotCypressCodeSerializer
+	'Croquet-Contacts.package' : #SquotCypressCodeSerializer,
+	'BaselineOfCroquet.package' : #SquotCypressCodeSerializer,
+	'FFI-Pools.package' : #SquotCypressCodeSerializer,
+	'FFI-Kernel.package' : #SquotCypressCodeSerializer,
+	'OpenGL-Pools.package' : #SquotCypressCodeSerializer,
+	'OpenGL-NameManager.package' : #SquotCypressCodeSerializer,
+	'OpenGL-Core.package' : #SquotCypressCodeSerializer,
+	'3DTransform.package' : #SquotCypressCodeSerializer
 }

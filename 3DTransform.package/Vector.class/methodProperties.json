@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"howToPassAsArgument" : "ar 3/13/2006 17:15",
+		"initialize" : "ar 3/8/2006 23:11",
+		"new" : "ar 2/1/1999 21:20",
+		"numElements" : "ar 2/1/1999 21:21" },
+	"instance" : {
+		"copyFrom:" : "ar 2/7/2006 16:51",
+		"floatAt:" : "ar 2/2/2001 15:47",
+		"floatAt:put:" : "ar 2/2/2001 15:47",
+		"loadFrom:" : "",
+		"numElements" : "ar 2/1/1999 21:23",
+		"privateLoadFrom:" : "ar 2/1/1999 21:23",
+		"replaceFrom:to:with:startingAt:" : "ar 7/22/2006 19:39",
+		"wordAt:" : "ar 2/15/1999 22:10",
+		"wordAt:put:" : "ar 2/15/1999 22:10" } }

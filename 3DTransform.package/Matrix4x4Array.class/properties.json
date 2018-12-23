@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Arrays",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Zero4x4Matrix" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Matrix4x4Array",
+	"pools" : [
+		 ],
+	"super" : "MatrixArray",
+	"type" : "words" }

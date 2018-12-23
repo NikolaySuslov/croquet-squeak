@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Arrays",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 5/22/2005 15:23",
+	"instvars" : [
+		 ],
+	"name" : "VectorColor4Array",
+	"pools" : [
+		 ],
+	"super" : "VectorArray",
+	"type" : "words" }

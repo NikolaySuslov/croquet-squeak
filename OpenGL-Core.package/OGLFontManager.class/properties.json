@@ -1,0 +1,16 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"glx",
+		"fonts",
+		"charList" ],
+	"name" : "OGLFontManager",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

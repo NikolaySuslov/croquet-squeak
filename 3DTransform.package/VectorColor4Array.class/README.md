@@ -1,0 +1,1 @@
+I am an inplace storage area for Color4 items used during lighting and shading.

@@ -1,0 +1,17 @@
+{
+	"category" : "3DTransform-Vectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "das 8/1/2006 16:30",
+	"instvars" : [
+		"p1",
+		"p2",
+		"p3",
+		"p4" ],
+	"name" : "CatmullRom",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

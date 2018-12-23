@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Arrays",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ZeroVertex" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Vector3Array",
+	"pools" : [
+		 ],
+	"super" : "VectorArray",
+	"type" : "words" }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fetchShader:" : "pbm 8/20/2007 11:33",
+		"fetchShader:fragment:" : "dsa 7/25/2007 16:11",
+		"initialize:" : "dsa 7/25/2007 16:00",
+		"programObjects" : "dsa 7/25/2007 16:00" } }

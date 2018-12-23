@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Arrays",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VectorColor3Array",
+	"pools" : [
+		 ],
+	"super" : "VectorArray",
+	"type" : "words" }

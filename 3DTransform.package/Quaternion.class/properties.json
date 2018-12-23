@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Vectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"QuaternionIdentity" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Quaternion",
+	"pools" : [
+		 ],
+	"super" : "Vector",
+	"type" : "words" }

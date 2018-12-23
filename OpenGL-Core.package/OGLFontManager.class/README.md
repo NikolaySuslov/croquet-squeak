@@ -1,0 +1,1 @@
+I manage fonts (and their caching) on a particular OpenGL object.

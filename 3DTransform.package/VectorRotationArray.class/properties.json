@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Arrays",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "VectorRotationArray",
+	"pools" : [
+		 ],
+	"super" : "VectorArray",
+	"type" : "words" }

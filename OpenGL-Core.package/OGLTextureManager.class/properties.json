@@ -1,0 +1,20 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ogl",
+		"textures",
+		"memAvail",
+		"memUsed",
+		"memFrame",
+		"compressTextures" ],
+	"name" : "OGLTextureManager",
+	"pools" : [
+		"GLExtConstants",
+		"OpenGLConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Vectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Vector4",
+	"pools" : [
+		 ],
+	"super" : "Vector",
+	"type" : "words" }

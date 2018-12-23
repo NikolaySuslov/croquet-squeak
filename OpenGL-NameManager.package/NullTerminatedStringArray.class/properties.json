@@ -1,0 +1,15 @@
+{
+	"category" : "OpenGL-NameManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jcg 8/7/2005 18:47",
+	"instvars" : [
+		"pointers",
+		"externalStrings" ],
+	"name" : "NullTerminatedStringArray",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

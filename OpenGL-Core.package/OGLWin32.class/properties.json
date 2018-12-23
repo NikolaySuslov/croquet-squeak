@@ -1,0 +1,14 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OGLWin32",
+	"pools" : [
+		 ],
+	"super" : "OpenGL",
+	"type" : "normal" }

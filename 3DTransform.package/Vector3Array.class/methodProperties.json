@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"contentsClass" : "das 5/16/2005 08:48",
+		"initialize" : "das 5/16/2005 08:48" },
+	"instance" : {
+		"addVector:" : "das 9/8/2003 11:02",
+		"at:" : "sn 2/23/2018 12:41",
+		"at:put:" : "ar 6/23/2002 16:17",
+		"contentsClass" : "das 5/16/2005 08:48",
+		"contentsSize" : "ar 6/23/2002 16:13",
+		"divideByArray:" : "das 9/7/2003 15:25",
+		"lengthInto:" : "das 9/7/2003 15:22",
+		"normalize" : "das 9/7/2003 15:26",
+		"scaleByArray:" : "das 9/7/2003 15:25",
+		"squaredLengthInto:" : "das 9/7/2003 15:24",
+		"subtractVector:" : "das 9/8/2003 11:02" } }

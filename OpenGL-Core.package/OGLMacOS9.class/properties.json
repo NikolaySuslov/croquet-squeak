@@ -1,0 +1,14 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OGLMacOS9",
+	"pools" : [
+		 ],
+	"super" : "OGLMacOSX",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drawString:from:to:font:" : "ar 6/12/2002 04:56",
+		"drawString:from:to:font:align:" : "ar 6/17/2002 00:08",
+		"drawStringRect:align:" : "ar 6/23/2002 23:27",
+		"frameStringRect:align:" : "ar 3/22/2010 22:41",
+		"initialize:" : "ar 6/12/2002 04:49",
+		"swapBytesOf:" : "ar 3/22/2010 22:40",
+		"uploadFont:" : "ar 3/22/2010 22:41" } }

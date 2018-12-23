@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beginFrame" : "",
+		"bindTexture:" : "jcg 6/12/2006 22:40",
+		"cleanup" : "das 1/8/2006 11:10",
+		"compressTextures" : "dsa 7/26/2007 11:03",
+		"compressTextures:" : "dsa 7/26/2007 11:04",
+		"compressedSizeOf:at:form:" : "das 1/2/2006 19:51",
+		"deleteTexture:" : "jcg 7/28/2006 14:34",
+		"deleteTexturesOlderThan:" : "bf 7/6/2012 12:53",
+		"endFrame" : "ar 4/9/2002 22:51",
+		"initialize:" : "dsa 7/26/2007 11:10",
+		"memFrame" : "ar 4/26/2003 01:38",
+		"memUsed" : "ar 4/26/2003 01:38",
+		"releaseTexture:" : "das 1/2/2006 19:42",
+		"releaseTextureMemoryIfNeeded" : "das 1/2/2006 20:25",
+		"scaleTexture:to:" : "",
+		"setTextureSizeOf:to:" : "das 1/2/2006 19:47",
+		"setupHandle:" : "das 1/5/2006 01:14",
+		"textureHandleOf:" : "jcg 6/12/2006 22:30",
+		"textureHandleOf:ifAbsent:" : "ar 1/30/2006 12:53",
+		"textureSizeOf:" : "das 1/2/2006 19:47",
+		"updateTextures:" : "jcg 6/12/2006 22:31",
+		"uploadTexture:" : "das 1/2/2006 19:48",
+		"uploadTexture:dirtyRect:" : "sn 2/23/2018 23:39" } }

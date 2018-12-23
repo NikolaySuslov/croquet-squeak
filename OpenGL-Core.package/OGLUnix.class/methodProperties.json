@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"glExtGetProcAddress:" : "das 9/5/2005 18:30",
+		"imagePixelFormat32" : "bf 10/21/2002 19:10",
+		"imagePixelType32" : "bf 10/21/2002 20:03",
+		"openGLLibraryName" : "bf 6/8/2012 14:52",
+		"textureInternalFormat" : "bf 10/21/2002 19:15",
+		"texturePixelFormat" : "bf 10/21/2002 19:09",
+		"texturePixelType" : "bf 10/21/2002 19:10" } }

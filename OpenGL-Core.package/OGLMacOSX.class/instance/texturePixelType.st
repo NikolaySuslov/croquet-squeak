@@ -1,0 +1,3 @@
+accessing
+texturePixelType
+	^GLUnsignedInt8888Rev

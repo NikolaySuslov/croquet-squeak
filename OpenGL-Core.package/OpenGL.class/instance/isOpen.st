@@ -1,0 +1,3 @@
+testing
+isOpen
+	^handle notNil

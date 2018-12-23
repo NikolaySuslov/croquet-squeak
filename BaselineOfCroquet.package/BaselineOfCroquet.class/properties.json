@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCroquet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCroquet",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

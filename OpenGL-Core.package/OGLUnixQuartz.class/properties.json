@@ -1,0 +1,14 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OGLUnixQuartz",
+	"pools" : [
+		 ],
+	"super" : "OpenGL",
+	"type" : "normal" }

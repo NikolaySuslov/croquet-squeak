@@ -1,0 +1,1 @@
+I represent the Mac Unix (Quartz) OpenGL version.

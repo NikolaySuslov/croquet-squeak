@@ -1,0 +1,20 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"glID",
+		"objectID",
+		"target",
+		"timeStamp",
+		"scaledSize",
+		"bytesUsed",
+		"allocated" ],
+	"name" : "OGLTextureHandle",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

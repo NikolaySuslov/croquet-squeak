@@ -1,0 +1,14 @@
+{
+	"category" : "3DTransform-Vectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VectorColor3",
+	"pools" : [
+		 ],
+	"super" : "Vector",
+	"type" : "words" }

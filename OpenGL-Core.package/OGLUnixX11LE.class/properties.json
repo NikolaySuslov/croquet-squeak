@@ -1,0 +1,14 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OGLUnixX11LE",
+	"pools" : [
+		 ],
+	"super" : "OGLUnix",
+	"type" : "normal" }

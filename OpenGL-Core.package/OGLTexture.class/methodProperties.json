@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bMipmap" : "bf 6/14/2012 23:21",
+		"bMipmap:" : "bf 6/14/2012 23:21",
+		"boundingBox" : "bf 5/29/2012 17:22",
+		"form:" : "bf 7/6/2012 11:41",
+		"invalidate" : "bf 7/6/2012 11:41",
+		"invalidate:" : "bf 7/5/2012 21:58",
+		"isStatic" : "bf 5/29/2012 16:31",
+		"isThumb" : "bf 5/29/2012 12:29",
+		"magFilter" : "bf 7/10/2012 18:58",
+		"minFilter" : "bf 7/10/2012 18:58",
+		"objectID" : "bf 5/29/2012 17:41",
+		"parameterAt:put:" : "bf 7/10/2012 19:00",
+		"parameters" : "bf 7/10/2012 18:56",
+		"resetUpdateRect" : "bf 7/5/2012 21:56",
+		"sha" : "bf 5/29/2012 17:41",
+		"target" : "bf 5/29/2012 16:30",
+		"textureForm" : "bf 5/29/2012 16:31",
+		"trueExtent" : "bf 5/29/2012 16:48",
+		"updateRect" : "bf 7/5/2012 21:56" } }

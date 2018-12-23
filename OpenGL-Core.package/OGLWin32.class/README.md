@@ -1,0 +1,1 @@
+I represent the Win32 OpenGL version.

@@ -1,0 +1,17 @@
+{
+	"category" : "OpenGL-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "bf 5/29/2012 17:39",
+	"instvars" : [
+		"form",
+		"bMipmap",
+		"parameters",
+		"updateRect" ],
+	"name" : "OGLTexture",
+	"pools" : [
+		"OpenGLConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

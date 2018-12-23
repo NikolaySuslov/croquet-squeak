@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"allocate:" : "ar 11/28/1999 23:20",
+		"gcallocate:" : "nice 5/19/2006 03:24",
+		"initialize" : "eem 2/20/2016 17:29",
+		"loadSymbol:module:" : "dtl 9/12/2015 18:04",
+		"new" : "eem 2/16/2016 12:17",
+		"new:" : "eem 2/22/2016 15:42",
+		"startUp:" : "eem 2/22/2016 15:30",
+		"wordSize" : "eem 2/16/2016 12:34" },
+	"instance" : {
+		"+" : "ar 9/16/2010 21:05",
+		"asByteArrayPointer" : "eem 2/22/2016 10:03",
+		"asExternalPointer" : "jcg 2/16/2010 01:00",
+		"asInteger" : "eem 2/21/2016 15:23",
+		"beNull" : "ar 11/22/1999 04:25",
+		"byteAt:" : "ar 11/21/1999 15:43",
+		"byteAt:put:" : "ar 11/21/1999 15:43",
+		"clone" : "tbn 4/26/2012 14:10",
+		"finalize" : "EstebanLorenzano 3/10/2016 16:39",
+		"free" : "ar 11/28/1999 23:40",
+		"fromInteger:" : "eem 2/21/2016 15:29",
+		"isExternalAddress" : "jcg 6/4/2010 02:40",
+		"isNull" : "ar 11/16/2006 15:35",
+		"printOn:" : "laza 3/29/2004 18:33",
+		"shallowCopy" : "eem 2/21/2016 15:31" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "3DTransform-Vectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IdentityMatrix",
+		"ZeroMatrix" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Matrix4x4",
+	"pools" : [
+		 ],
+	"super" : "Vector",
+	"type" : "words" }

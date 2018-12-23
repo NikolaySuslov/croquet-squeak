@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"initialize" : "ar 5/20/2003 11:11",
+		"initializeArbExtDrawRangeElements" : "sn 7/27/2013 01:30",
+		"initializeArbFragmentShader" : "jcg 5/21/2010 17:51",
+		"initializeArbMultisample" : "hrs 8/18/2007 13:33",
+		"initializeArbMutlisample" : "pbm 7/14/2007 12:31",
+		"initializeArbPixelBufferObject" : "jcg 5/21/2010 18:17",
+		"initializeArbShaderObjects" : "pbm 7/14/2007 12:31",
+		"initializeArbTextureCompression" : "ar 4/5/2006 21:55",
+		"initializeArbTransposeMatrix" : "ar 4/5/2006 21:55",
+		"initializeArbVertexBufferObject" : "ar 4/5/2006 21:55",
+		"initializeArbVertexProgram" : "ar 4/5/2006 21:55",
+		"initializeArbVertexShader" : "pbm 7/14/2007 12:31",
+		"initializeExtCompiledVertexArray" : "ar 4/5/2006 21:55",
+		"initializeExtFramebufferBlit" : "pbm 7/14/2007 12:31",
+		"initializeExtFramebufferObjects" : "pbm 7/14/2007 12:31",
+		"initializeExtTextureCompressionS3tc" : "ar 4/5/2006 21:55",
+		"initializeSgisGenerateMipmap" : "ar 4/5/2006 21:55" },
+	"instance" : {
+		 } }

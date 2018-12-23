@@ -1,0 +1,1 @@
+I represent an RGBA color value in floating point format. I am used during the lighting and shading computations.

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"test:with:" : "das 3/12/2004 12:55" },
+	"instance" : {
+		"imagePixelFormat32" : "ikp 1/7/2003 21:14",
+		"imagePixelType32" : "ikp 1/7/2003 21:14",
+		"openGLLibraryName" : "ar 12/4/2003 21:01",
+		"textureInternalFormat" : "ikp 1/7/2003 21:14",
+		"texturePixelFormat" : "ikp 1/7/2003 21:14",
+		"texturePixelType" : "ikp 1/7/2003 21:14" } }

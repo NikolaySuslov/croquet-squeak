@@ -1,0 +1,47 @@
+GL_ARB_vertex_buffer_object
+initializeArbVertexBufferObject
+		"self initializeArbVertexBufferObject"
+	"Initialize ARB_vertex_buffer_object constants"
+	self install: 'ArbVertexBufferObject' withEXTConstants: #(
+		"glBindBufferARB/glBufferDataARB/glBufferSubDataARB/etc."
+		'ARRAY_BUFFER_ARB				0x8892'
+		'ELEMENT_ARRAY_BUFFER_ARB 		0x8893'
+
+		"glGet"
+		'ARRAY_BUFFER_BINDING_ARB						0x8894'
+		'ELEMENT_ARRAY_BUFFER_BINDING_ARB				0x8895'
+		'VERTEX_ARRAY_BUFFER_BINDING_ARB				0x8896'
+		'NORMAL_ARRAY_BUFFER_BINDING_ARB				0x8897'
+		'COLOR_ARRAY_BUFFER_BINDING_ARB				0x8898'
+		'INDEX_ARRAY_BUFFER_BINDING_ARB					0x8899'
+		'TEXTURE_COORD_ARRAY_BUFFER_BINDING_ARB		0x889A'
+		'EDGE_FLAG_ARRAY_BUFFER_BINDING_ARB			0x889B'
+		'SECONDARY_COLOR_ARRAY_BUFFER_BINDING_ARB		0x889C'
+		'FOG_COORDINATE_ARRAY_BUFFER_BINDING_ARB		0x889D'
+		'WEIGHT_ARRAY_BUFFER_BINDING_ARB				0x889E'
+
+		"glGetVertexAttribivARB"
+		'VERTEX_ATTRIB_ARRAY_BUFFER_BINDING_ARB		0x889F'
+
+		"glBufferDataARB"
+		'STREAM_DRAW_ARB									0x88E0'
+		'STREAM_READ_ARB									0x88E1'
+		'STREAM_COPY_ARB									0x88E2'
+		'STATIC_DRAW_ARB									0x88E4'
+		'STATIC_READ_ARB									0x88E5'
+		'STATIC_COPY_ARB									0x88E6'
+		'DYNAMIC_DRAW_ARB								0x88E8'
+		'DYNAMIC_READ_ARB								0x88E9'
+		'DYNAMIC_COPY_ARB								0x88EA'
+
+		"glMapBufferARB"
+		'READ_ONLY_ARB							0x88B8'
+		'WRITE_ONLY_ARB							0x88B9'
+		'READ_WRITE_ARB							0x88BA'
+	
+		"glGetBufferParameterivARB"
+		'BUFFER_SIZE_ARB							0x8764'
+		'BUFFER_USAGE_ARB							0x8765'
+		'BUFFER_ACCESS_ARB						0x88BB'
+		'BUFFER_MAPPED_ARB						0x88BC'
+	)

@@ -1,0 +1,3 @@
+NullTerminatedStringArray is used for passing data to FFI functions that require a null-terminated array of null-terminated strings.  For example, this class is suitable for the 'char* argv[]' argument of the 'main()' function in C programs.  Another example is the arguments passed to the Cg compiler in the context of an OpenGL/Cg application.  The first example does not require a null-terminated array, because the number of strings is stored in the 'argc' argument.  However, the second example requires both the strings and the array to be null-terminated.
+
+'pointers' stores a null-terminated list of pointers to the null-terminated strings stored in 'externalStrings'.
