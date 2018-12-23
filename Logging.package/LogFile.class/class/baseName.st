@@ -1,0 +1,3 @@
+settings
+baseName
+	^'squeak'

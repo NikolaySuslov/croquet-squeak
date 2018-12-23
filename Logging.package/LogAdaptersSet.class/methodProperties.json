@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"cleanUp" : "kph 12/1/2008 21:13",
+		"initialize" : "kph 12/1/2008 22:00" },
+	"instance" : {
+		"add:" : "kph 2/24/2009 16:47",
+		"addHistoryLog" : "kph 2/24/2009 02:07",
+		"addTranscript" : "kph 2/24/2009 02:08",
+		"do:" : "kph 12/2/2008 02:53",
+		"filter" : "mtf 4/25/2011 00:58",
+		"filter:" : "mtf 4/25/2011 00:59",
+		"find:" : "kph 2/24/2009 16:45",
+		"logEntry:formatted:" : "mtf 4/29/2011 16:36",
+		"remove:" : "kph 3/5/2009 13:32",
+		"removeAll" : "kph 12/1/2008 04:19",
+		"wouldLogEntry:" : "mtf 4/29/2011 16:32" } }

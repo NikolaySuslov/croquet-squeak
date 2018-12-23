@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Adapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 10/8/2007 06:20",
+	"instvars" : [
+		"category" ],
+	"name" : "LogToothpick",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

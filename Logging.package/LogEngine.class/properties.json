@@ -1,0 +1,15 @@
+{
+	"category" : "Logging-Adapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 12/12/2007 13:06",
+	"instvars" : [
+		"id",
+		"filter" ],
+	"name" : "LogEngine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"size:" : "kph 11/30/2008 00:15" },
+	"instance" : {
+		"addToHistory:" : "kph 12/1/2008 23:08",
+		"clearEntries" : "jrd 5/4/2009 23:31",
+		"filter" : "mtf 4/25/2011 01:10",
+		"filter:" : "mtf 4/25/2011 01:10",
+		"initialize" : "kph 12/1/2008 23:08",
+		"logEntry:formatted:" : "mtf 4/29/2011 16:37",
+		"outputTo:" : "kph 12/2/2008 02:49",
+		"postCopy" : "kph 12/1/2008 02:26",
+		"setSize:" : "kph 11/30/2008 00:13",
+		"wouldLogEntry:" : "mtf 4/29/2011 16:32" } }

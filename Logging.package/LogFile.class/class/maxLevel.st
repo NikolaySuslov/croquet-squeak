@@ -1,0 +1,4 @@
+settings
+maxLevel
+
+	^ 10

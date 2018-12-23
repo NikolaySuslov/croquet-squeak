@@ -1,0 +1,4 @@
+levels
+emerg
+	
+	level := #emerg

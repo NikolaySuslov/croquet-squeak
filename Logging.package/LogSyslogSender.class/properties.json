@@ -1,0 +1,16 @@
+{
+	"category" : "Logging-Adapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 11/21/2007 01:31",
+	"instvars" : [
+		"hostName",
+		"facility",
+		"hosts" ],
+	"name" : "LogSyslogSender",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

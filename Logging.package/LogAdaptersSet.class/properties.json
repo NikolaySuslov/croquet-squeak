@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Protect" ],
+	"commentStamp" : "kph 2/24/2009 14:42",
+	"instvars" : [
+		"filter" ],
+	"name" : "LogAdaptersSet",
+	"pools" : [
+		 ],
+	"super" : "Set",
+	"type" : "normal" }

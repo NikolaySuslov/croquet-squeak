@@ -1,0 +1,4 @@
+levels
+critical
+	
+	level := #crit

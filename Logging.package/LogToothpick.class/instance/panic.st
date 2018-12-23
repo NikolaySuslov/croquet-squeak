@@ -1,0 +1,4 @@
+levels
+panic
+
+	level := #panic

@@ -1,0 +1,16 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 4/25/2011 00:42",
+	"instvars" : [
+		"whitelist",
+		"blacklist",
+		"defaultAllow" ],
+	"name" : "Bouncer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

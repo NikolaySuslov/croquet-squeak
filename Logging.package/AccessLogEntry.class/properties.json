@@ -1,0 +1,18 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 4/25/2011 18:45",
+	"instvars" : [
+		"senderHost",
+		"senderName",
+		"userName",
+		"status",
+		"size" ],
+	"name" : "AccessLogEntry",
+	"pools" : [
+		 ],
+	"super" : "LogEntry",
+	"type" : "normal" }

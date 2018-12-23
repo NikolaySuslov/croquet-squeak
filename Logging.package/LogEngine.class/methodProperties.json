@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"LogClient:" : "kph 11/26/2008 06:19",
+		"for:" : "kph 12/1/2008 04:42",
+		"start" : "kph 11/26/2008 06:21" },
+	"instance" : {
+		"filter" : "mtf 4/25/2011 01:03",
+		"filter:" : "mtf 4/25/2011 01:04",
+		"id" : "kph 11/30/2008 05:29",
+		"logEntry:formatted:" : "mtf 4/29/2011 16:36",
+		"setId:" : "kph 11/30/2008 05:28",
+		"wouldLogEntry:" : "mtf 4/29/2011 16:32" } }

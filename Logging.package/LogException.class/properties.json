@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gg 2/24/2001 22:18",
+	"instvars" : [
+		 ],
+	"name" : "LogException",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

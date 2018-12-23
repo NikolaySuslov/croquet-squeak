@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"output" ],
+	"name" : "LogTestAdapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

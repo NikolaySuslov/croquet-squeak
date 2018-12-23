@@ -1,0 +1,24 @@
+{
+	"category" : "Logging-Adapters",
+	"classinstvars" : [
+		"selected" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 11/21/2007 09:11",
+	"instvars" : [
+		"classes",
+		"selectedClass",
+		"selectedClasses",
+		"selectedSeverity",
+		"messages",
+		"selectedMessage",
+		"removedClasses",
+		"searchString",
+		"pauseResumeState",
+		"bufferedMessages",
+		"origLabel" ],
+	"name" : "LogMorph",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

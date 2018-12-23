@@ -1,0 +1,6 @@
+exceptionDescription
+defaultAction
+	 
+	^self getLine.
+	
+ 

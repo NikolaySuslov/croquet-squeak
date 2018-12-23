@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"SMTPServer:" : "kph 12/1/2008 05:25",
+		"account:" : "kph 12/1/2008 05:25",
+		"collectMinutes:" : "kph 12/1/2008 05:26",
+		"default" : "kph 12/1/2008 05:25",
+		"fromEmail:" : "kph 12/1/2008 05:26",
+		"password:" : "kph 12/1/2008 05:27",
+		"toEmail:" : "kph 12/1/2008 05:28" },
+	"instance" : {
+		"account:" : "kph 12/1/2008 05:19",
+		"collectMinutes:" : "kph 12/1/2008 05:19",
+		"critical:" : "kph 2/24/2009 16:37",
+		"filter" : "mtf 4/25/2011 01:14",
+		"filter:" : "mtf 4/25/2011 01:14",
+		"fromEmail:" : "kph 12/1/2008 05:20",
+		"initialize" : "kph 12/1/2008 05:20",
+		"logEntry:formatted:" : "mtf 4/29/2011 16:38",
+		"mailFrom:to:text:" : "kph 2/24/2009 16:27",
+		"password:" : "kph 12/1/2008 05:23",
+		"reInitialize" : "kph 12/1/2008 05:23",
+		"sendBuffer" : "kph 12/1/2008 05:24",
+		"sendMessage:" : "kph 12/1/2008 05:24",
+		"smtpServer:" : "kph 12/1/2008 05:19",
+		"wouldLogEntry:" : "mtf 4/29/2011 16:33" } }

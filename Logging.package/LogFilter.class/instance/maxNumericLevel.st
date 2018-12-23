@@ -1,0 +1,3 @@
+accessing
+maxNumericLevel
+	^ maxNumericLevel

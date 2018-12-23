@@ -1,0 +1,1 @@
+a LogMessage for logging server accesses, in apache access_log format by default

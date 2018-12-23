@@ -1,0 +1,3 @@
+*logging
+filter
+	^ nil

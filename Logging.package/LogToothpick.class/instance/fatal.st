@@ -1,0 +1,4 @@
+levels
+fatal
+
+	level := #fatal

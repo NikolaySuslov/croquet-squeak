@@ -1,0 +1,1 @@
+Like Bouncer, but accepts or rejects objects based on identity rather than equality

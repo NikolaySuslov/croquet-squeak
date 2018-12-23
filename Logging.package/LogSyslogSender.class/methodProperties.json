@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"localhost" : "kph 12/1/2008 05:07" },
+	"instance" : {
+		"addHost:" : "gk 11/21/2007 01:10",
+		"addHost:port:" : "gk 11/21/2007 01:10",
+		"facility:" : "gk 11/21/2007 01:07",
+		"filter" : "mtf 4/25/2011 01:12",
+		"filter:" : "mtf 4/25/2011 01:12",
+		"hostName" : "gk 11/21/2007 00:03",
+		"hostName:" : "gk 11/21/2007 01:08",
+		"initialize" : "kph 12/1/2008 05:06",
+		"logEntry:formatted:" : "mtf 4/29/2011 16:38",
+		"send:to:port:" : "gk 11/21/2007 00:04",
+		"wouldLogEntry:" : "mtf 4/29/2011 16:33" } }

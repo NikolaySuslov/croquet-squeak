@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 4/25/2011 00:41",
+	"instvars" : [
+		 ],
+	"name" : "IdentityBouncer",
+	"pools" : [
+		 ],
+	"super" : "Bouncer",
+	"type" : "normal" }

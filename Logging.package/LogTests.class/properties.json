@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 6/1/2007 13:20",
+	"instvars" : [
+		 ],
+	"name" : "LogTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

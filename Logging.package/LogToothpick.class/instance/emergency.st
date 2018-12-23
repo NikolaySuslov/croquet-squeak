@@ -1,0 +1,4 @@
+levels
+emergency
+	
+	level := #emerg

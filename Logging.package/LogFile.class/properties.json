@@ -1,0 +1,15 @@
+{
+	"category" : "Logging-Adapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 11/20/2007 22:39",
+	"instvars" : [
+		"file",
+		"filter" ],
+	"name" : "LogFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+public
+shared
+
+	^ self sharedPools

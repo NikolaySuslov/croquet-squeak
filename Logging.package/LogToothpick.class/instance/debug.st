@@ -1,0 +1,4 @@
+levels
+debug
+	
+	level := #debug

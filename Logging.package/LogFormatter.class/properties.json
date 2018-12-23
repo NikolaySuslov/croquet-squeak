@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LogFormatter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

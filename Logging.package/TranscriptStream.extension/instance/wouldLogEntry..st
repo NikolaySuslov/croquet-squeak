@@ -1,0 +1,3 @@
+*logging
+wouldLogEntry: aLogEntry
+	^ true

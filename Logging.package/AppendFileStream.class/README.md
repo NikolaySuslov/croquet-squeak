@@ -1,0 +1,1 @@
+I am a file stream meant for write-only operation. I can be opened at once by multiple processes, and written concurrently. all operations should be done inside my critical block

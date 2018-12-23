@@ -1,0 +1,1 @@
+I dump unhandled squeak errors to the log

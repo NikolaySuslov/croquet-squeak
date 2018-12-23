@@ -6,5 +6,6 @@ OrderedDictionary {
 	'OpenGL-Pools.package' : #SquotCypressCodeSerializer,
 	'OpenGL-NameManager.package' : #SquotCypressCodeSerializer,
 	'OpenGL-Core.package' : #SquotCypressCodeSerializer,
-	'3DTransform.package' : #SquotCypressCodeSerializer
+	'3DTransform.package' : #SquotCypressCodeSerializer,
+	'Logging.package' : #SquotCypressCodeSerializer
 }

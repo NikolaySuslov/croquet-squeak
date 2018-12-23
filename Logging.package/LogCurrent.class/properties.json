@@ -1,0 +1,23 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		"Levels",
+		"Protect" ],
+	"commentStamp" : "kph 12/2/2008 06:06",
+	"instvars" : [
+		"pid",
+		"properties",
+		"sender",
+		"stream",
+		"level",
+		"category",
+		"adapter",
+		"formatter",
+		"source" ],
+	"name" : "LogCurrent",
+	"pools" : [
+		 ],
+	"super" : "ProcessLocalVariable",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I divide objects into two groups: allow, and deny, based on a whitelist, blacklist, and default policy. A bouncer is a slang term for a guard at a club who does this to people who want in. Judges objects based on equality; use my subclass IdentityBouncer for identity-based judging

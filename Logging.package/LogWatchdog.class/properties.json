@@ -1,0 +1,31 @@
+{
+	"category" : "Logging-Adapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Buffer",
+		"CollectMinutes",
+		"Default",
+		"FromEmail",
+		"SMTPAccount",
+		"SMTPPassword",
+		"SMTPServer",
+		"Threshold",
+		"Timer",
+		"ToEmail" ],
+	"commentStamp" : "gk 6/1/2007 13:10",
+	"instvars" : [
+		"buffer",
+		"collectMinutes",
+		"fromEmail",
+		"smtpAccount",
+		"smtpPassword",
+		"smtpServer",
+		"threshold",
+		"timer",
+		"toEmail" ],
+	"name" : "LogWatchdog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

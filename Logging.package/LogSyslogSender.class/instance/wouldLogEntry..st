@@ -1,0 +1,3 @@
+private
+wouldLogEntry: aLogEntry
+	^ true

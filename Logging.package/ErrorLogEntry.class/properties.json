@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 5/3/2011 18:31",
+	"instvars" : [
+		"error" ],
+	"name" : "ErrorLogEntry",
+	"pools" : [
+		 ],
+	"super" : "LogEntry",
+	"type" : "normal" }

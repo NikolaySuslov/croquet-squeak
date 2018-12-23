@@ -1,0 +1,3 @@
+private
+privGetContext
+	^ self signalerContext.

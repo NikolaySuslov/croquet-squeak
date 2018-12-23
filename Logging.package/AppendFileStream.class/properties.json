@@ -1,0 +1,14 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 6/3/2011 15:52",
+	"instvars" : [
+		"mutex" ],
+	"name" : "AppendFileStream",
+	"pools" : [
+		 ],
+	"super" : "StandardFileStream",
+	"type" : "normal" }

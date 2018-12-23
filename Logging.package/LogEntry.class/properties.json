@@ -1,0 +1,22 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 4/29/2011 17:01",
+	"instvars" : [
+		"properties",
+		"stamp",
+		"line",
+		"level",
+		"category",
+		"sender",
+		"pid",
+		"source",
+		"processDescription" ],
+	"name" : "LogEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

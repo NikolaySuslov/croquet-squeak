@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"baseName" : "gk 2/16/2007 11:19",
+		"extension" : "gk 11/13/2006 14:38",
+		"filename" : "gk 11/13/2006 14:47",
+		"filesKept" : "gk 6/1/2007 12:47",
+		"logDirectory" : "kph 12/2/2008 03:52",
+		"maxLevel" : "kph 12/2/2008 03:59",
+		"maxSize" : "gk 11/13/2006 15:03",
+		"named:" : "kph 2/24/2009 16:58",
+		"open" : "kph 12/12/2007 09:50",
+		"open:" : "kph 12/2/2008 03:53" },
+	"instance" : {
+		"critical:" : "kph 2/24/2009 16:36",
+		"deleteOldLogFilesFromNumber:" : "gk 11/13/2006 15:02",
+		"filter" : "mtf 4/25/2011 01:10",
+		"filter:" : "mtf 4/25/2011 01:10",
+		"flush" : "gk 8/17/2006 17:13",
+		"logEntry:formatted:" : "mtf 8/6/2011 19:00",
+		"open:" : "mtf 6/3/2011 16:15",
+		"printOn:" : "mtf 4/27/2011 13:55",
+		"reInitialize" : "makl 8/11/2006 10:01",
+		"reset" : "gk 8/7/2006 11:13",
+		"rotate" : "kph 2/2/2008 06:25",
+		"wouldLogEntry:" : "mtf 4/29/2011 16:32",
+		"writeLine:" : "mtf 6/3/2011 16:23" } }

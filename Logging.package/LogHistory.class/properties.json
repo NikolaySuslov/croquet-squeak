@@ -1,0 +1,16 @@
+{
+	"category" : "Logging-Adapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"history",
+		"next",
+		"mutex" ],
+	"name" : "LogHistory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

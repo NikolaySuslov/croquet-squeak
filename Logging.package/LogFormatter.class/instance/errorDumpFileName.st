@@ -1,0 +1,3 @@
+error
+errorDumpFileName
+	^ Smalltalk squeakErrorFileName

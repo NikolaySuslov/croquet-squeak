@@ -1,0 +1,15 @@
+{
+	"category" : "Logging-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mtf 4/4/2009 00:55",
+	"instvars" : [
+		"router",
+		"item" ],
+	"name" : "LogReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
