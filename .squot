@@ -9,5 +9,6 @@ OrderedDictionary {
 	'3DTransform.package' : #SquotCypressCodeSerializer,
 	'Logging.package' : #SquotCypressCodeSerializer,
 	'Script-Preload.package' : #SquotCypressCodeSerializer,
-	'Scripting.package' : #SquotCypressCodeSerializer
+	'Scripting.package' : #SquotCypressCodeSerializer,
+	'Islands.package' : #SquotCypressCodeSerializer
 }

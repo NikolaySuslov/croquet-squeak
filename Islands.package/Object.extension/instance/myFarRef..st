@@ -1,0 +1,3 @@
+*Islands
+myFarRef: farRef
+	^nil

@@ -1,0 +1,3 @@
+importing
+importGlobalRef
+	^self errorInvalidCode

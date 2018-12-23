@@ -1,0 +1,21 @@
+{
+	"category" : "Islands-Files",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ImportCodes" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"archive",
+		"dataStream",
+		"splObjects",
+		"imports",
+		"segment",
+		"unblessed",
+		"progressBar",
+		"defaultInfo" ],
+	"name" : "IslandReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+A small hack on inspector to show the contents of a far object.

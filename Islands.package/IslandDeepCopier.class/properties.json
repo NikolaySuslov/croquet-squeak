@@ -1,0 +1,14 @@
+{
+	"category" : "Islands-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "IslandDeepCopier",
+	"pools" : [
+		 ],
+	"super" : "IslandArgumentCopier",
+	"type" : "normal" }

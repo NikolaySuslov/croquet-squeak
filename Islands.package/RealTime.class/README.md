@@ -1,0 +1,1 @@
+I represent the system real-time clock. I implement a few methods so that I can be used both, as a time base for Time (e.g., Time maps to real-time) as well as independently in expressions such as "RealTimeClock millisecondsToRun:[...]".

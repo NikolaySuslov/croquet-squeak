@@ -1,0 +1,14 @@
+{
+	"category" : "Islands-Time",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "IslandTime",
+	"pools" : [
+		 ],
+	"super" : "Time",
+	"type" : "normal" }

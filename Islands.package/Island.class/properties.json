@@ -1,0 +1,21 @@
+{
+	"category" : "Islands-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "ar 1/17/2005 21:21",
+	"instvars" : [
+		"myEventMap",
+		"myScripts",
+		"name",
+		"uid",
+		"globals",
+		"exports",
+		"randomStream",
+		"random" ],
+	"name" : "Island",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Islands-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ar 1/17/2005 16:58",
+	"instvars" : [
+		 ],
+	"name" : "IslandTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

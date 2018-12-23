@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"forIsland:" : "ar 6/15/2009 13:38",
+		"howToPassAsArgument" : "ar 1/15/2005 23:47",
+		"new" : "ar 6/15/2009 13:38" },
+	"instance" : {
+		"activateIsland:during:" : "mtf 11/2/2011 11:09",
+		"activateIslandWithEscape:during:" : "mtf 11/2/2011 10:48",
+		"exportOnIslandWriter:" : "ar 6/16/2005 19:43",
+		"setIsland:" : "ar 6/15/2009 13:38" } }

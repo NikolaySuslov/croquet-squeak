@@ -1,0 +1,15 @@
+{
+	"category" : "Islands-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ar 1/17/2005 11:50",
+	"instvars" : [
+		"myIsland",
+		"myValue" ],
+	"name" : "FarRef",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

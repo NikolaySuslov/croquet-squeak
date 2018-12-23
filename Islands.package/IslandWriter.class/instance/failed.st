@@ -1,0 +1,3 @@
+public
+failed
+	^segment == nil

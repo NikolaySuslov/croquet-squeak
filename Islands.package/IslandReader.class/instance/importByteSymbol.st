@@ -1,0 +1,3 @@
+importing
+importByteSymbol
+	^self importByteString asSymbol

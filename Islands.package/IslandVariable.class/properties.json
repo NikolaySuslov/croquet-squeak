@@ -1,0 +1,14 @@
+{
+	"category" : "Islands-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"WriteStatistics" ],
+	"commentStamp" : "ar 1/17/2005 16:55",
+	"instvars" : [
+		"home" ],
+	"name" : "IslandVariable",
+	"pools" : [
+		 ],
+	"super" : "Association",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+For very deep copy of a FarRef.  A tree of objects is created in the current island with all references to other islands resolved.  Just like IslandArgumentCopier except that no FarRefs are ever generated.  Instead, those objects are copied locally.

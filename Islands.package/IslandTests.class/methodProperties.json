@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClassOf:" : "ar 5/22/2005 13:39",
+		"assertIslandIs:" : "mtf 6/2/2010 11:02",
+		"assertIslandIs:andSignal:" : "mtf 6/2/2010 13:38",
+		"assertIslandIs:andSignalChecking:" : "mtf 6/2/2010 13:34",
+		"testBitBlt" : "ar 5/22/2005 13:57",
+		"testImplicitIsland" : "hrs 10/8/2009 15:58",
+		"testIslandGlobal" : "ar 1/17/2005 23:01",
+		"testIslandNew" : "ar 1/17/2005 23:01",
+		"testIslandValue" : "ar 1/17/2005 23:01",
+		"testIslandVeil" : "ar 1/17/2005 22:59",
+		"testNearFarRef" : "ar 1/17/2005 23:01",
+		"testReferentialIdentity" : "ar 1/17/2005 23:01",
+		"testSyncSend" : "mtf 6/2/2010 11:36" } }

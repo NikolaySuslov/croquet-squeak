@@ -1,0 +1,22 @@
+{
+	"category" : "Islands-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"roots",
+		"goals",
+		"parents",
+		"context",
+		"lastObject",
+		"log",
+		"segment",
+		"outPointers",
+		"objCount" ],
+	"name" : "SnapshotTracer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

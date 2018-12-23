@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"new" : "ar 1/14/2005 23:09" },
+	"instance" : {
+		"add:" : "eem 6/11/2008 17:35",
+		"asArray" : "ar 1/16/2005 20:19",
+		"at:" : "ar 1/14/2005 23:13",
+		"at:ifAbsent:" : "hrs 1/5/2007 21:11",
+		"at:ifAbsentPut:" : "ar 1/14/2005 23:32",
+		"at:put:" : "ar 1/17/2005 16:39",
+		"atNewIndex:put:" : "ar 5/22/2005 14:34",
+		"do:" : "eem 6/11/2008 17:35",
+		"finalizeValues" : "eem 6/11/2008 17:35",
+		"findElementOrFlag:" : "ar 1/10/2007 11:21",
+		"fullCheck" : "ar 5/12/2005 18:01",
+		"grow" : "ar 1/14/2005 23:04",
+		"growSize" : "ar 1/14/2005 23:09",
+		"growTo:" : "eem 6/11/2008 17:36",
+		"initialize" : "bgf 3/21/2009 21:16",
+		"island" : "ar 1/14/2005 23:16",
+		"island:" : "ar 1/14/2005 23:16",
+		"rehash" : "ar 5/14/2005 21:38",
+		"scanFor:" : "ar 1/16/2005 20:31",
+		"shrink" : "ar 1/16/2005 22:25",
+		"size" : "ar 1/14/2005 23:13" } }

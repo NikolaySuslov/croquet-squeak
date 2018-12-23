@@ -1,0 +1,17 @@
+{
+	"category" : "Islands-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CopyStats",
+		"ProxyStats" ],
+	"commentStamp" : "ar 1/17/2005 21:20",
+	"instvars" : [
+		"srcIsland",
+		"dstIsland",
+		"map" ],
+	"name" : "IslandArgumentCopier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

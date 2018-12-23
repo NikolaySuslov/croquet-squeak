@@ -1,0 +1,3 @@
+blessings
+isBlessedVersionID: uuid
+	^false

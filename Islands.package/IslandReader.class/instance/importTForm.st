@@ -1,0 +1,3 @@
+importing
+importTForm
+	^self errorInvalidCode

@@ -1,0 +1,3 @@
+importing
+importSmallInteger
+	^dataStream nextInt32

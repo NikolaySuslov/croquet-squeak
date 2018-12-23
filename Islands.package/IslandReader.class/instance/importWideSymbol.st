@@ -1,0 +1,3 @@
+importing
+importWideSymbol
+	^self importWideString asSymbol

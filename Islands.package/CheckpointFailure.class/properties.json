@@ -1,0 +1,14 @@
+{
+	"category" : "Islands-Files",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CheckpointFailure",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

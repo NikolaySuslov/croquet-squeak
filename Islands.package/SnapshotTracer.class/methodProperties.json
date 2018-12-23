@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildRawList:" : "ar 5/16/2005 11:53",
+		"context" : "ar 5/15/2005 00:40",
+		"context:" : "ar 5/15/2005 00:41",
+		"countObjects" : "ar 5/21/2005 11:13",
+		"countSegment" : "ar 5/21/2005 11:34",
+		"gcTrace:label:" : "ar 5/24/2005 14:59",
+		"goals" : "ar 5/14/2005 19:54",
+		"goals:" : "ar 5/14/2005 19:55",
+		"isMarked:" : "ar 5/16/2005 15:32",
+		"lastObject" : "ar 5/15/2005 18:31",
+		"lastObject:" : "ar 5/15/2005 18:31",
+		"markAndTrace:with:" : "jcg 5/28/2006 22:08",
+		"objectAfter:" : "ar 5/21/2005 11:34",
+		"outPointers" : "ar 5/21/2005 11:11",
+		"outPointers:" : "ar 5/21/2005 11:11",
+		"printPath:" : "mtf 1/20/2010 19:21",
+		"roots" : "ar 5/14/2005 19:54",
+		"roots:" : "ar 5/14/2005 19:54",
+		"search" : "ar 5/21/2005 11:49",
+		"searchInSegment" : "ar 5/26/2005 22:41",
+		"searchInSystem" : "ar 5/26/2005 22:39",
+		"segment" : "ar 5/21/2005 11:10",
+		"segment:" : "ar 5/21/2005 11:10",
+		"unmarkedObjects" : "ar 5/16/2005 15:03" } }

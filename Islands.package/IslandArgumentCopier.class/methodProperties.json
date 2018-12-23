@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"copyStats" : "ar 1/14/2005 20:38",
+		"copyStats:" : "ar 1/14/2005 20:38",
+		"isPassByIdentity:" : "bgf 7/15/2009 16:14" },
+	"instance" : {
+		"clone:" : "sn 2/22/2018 12:11",
+		"copy:" : "sn 2/22/2018 12:12",
+		"from:to:" : "ar 1/14/2005 13:06",
+		"pass:" : "mtf 11/2/2011 09:59",
+		"passByClone:" : "ar 1/17/2005 14:31",
+		"passByCopy:" : "ar 1/14/2005 13:14",
+		"passByIdentity:" : "bgf 7/15/2009 16:12",
+		"passByProxy:" : "ar 5/28/2005 14:40" } }

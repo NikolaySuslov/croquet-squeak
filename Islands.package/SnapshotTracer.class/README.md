@@ -1,0 +1,1 @@
+CheckpointTracer is a tool for debugging problems with Island checkpointing. It works in precisely the same way that the image segment creation primitive works but is capable of finding the reference paths to any of the goal objects (which are the ones that were identified as problematic "outside objects"). This information can in turn be used to identify what has gone wrong.

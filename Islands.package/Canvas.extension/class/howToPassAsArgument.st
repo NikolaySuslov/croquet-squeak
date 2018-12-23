@@ -1,0 +1,3 @@
+*Islands
+howToPassAsArgument
+	^ #passByIdentity:
