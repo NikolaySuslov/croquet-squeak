@@ -21,3 +21,7 @@ Metacello new
  ```
  
  3. **[Download](https://www.krestianstvo.org/sdk/croquet/Content.zip)** Models/Textures content and place it to Contents/Resources Squeak folder
+
+---
+
+(Based on Monticello packages from https://sdk.krestianstvo.org/sdk/croquet.html)
