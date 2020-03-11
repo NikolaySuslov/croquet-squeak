@@ -8,7 +8,7 @@ login: data from: aClient
 	"
 	| userHash passHash sessionKey listFacet cypher result |
 	userHash := data copyFrom: 1 to: 16.
-	passHash := self lookupHash: userHash ifAbsent:[
+	passHash := self lookupHash: userHash asTObjectID ifAbsent:[
 		^self error: 'Unknown user with hash: ', userHash
 	].
 	"self logStream cr ; show: 'client connected: ', (self printClient: aClient)."
