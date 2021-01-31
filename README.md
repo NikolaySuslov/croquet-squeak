@@ -24,4 +24,4 @@ Metacello new
 
 ---
 
-(Based on Monticello packages from https://sdk.krestianstvo.org/sdk/croquet.html)
+(Based on Monticello packages from https://sdk.krestianstvo.org/sdk/croquet)
